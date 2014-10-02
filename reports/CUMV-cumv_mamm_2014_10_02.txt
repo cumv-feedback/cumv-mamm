@@ -1,0 +1,248 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 16314
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 15
+	Country: Finland ; Times: 2
+	Country: France ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Hungary ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: Saudi Arabia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 180
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 22
+	Date: 2014-09-02 ; Times: 7
+	Date: 2014-09-03 ; Times: 24
+	Date: 2014-09-04 ; Times: 4
+	Date: 2014-09-05 ; Times: 7
+	Date: 2014-09-07 ; Times: 7
+	Date: 2014-09-08 ; Times: 2
+	Date: 2014-09-09 ; Times: 21
+	Date: 2014-09-10 ; Times: 2
+	Date: 2014-09-11 ; Times: 20
+	Date: 2014-09-12 ; Times: 20
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 21
+	Date: 2014-09-16 ; Times: 4
+	Date: 2014-09-17 ; Times: 20
+	Date: 2014-09-18 ; Times: 9
+	Date: 2014-09-19 ; Times: 15
+	Date: 2014-09-20 ; Times: 17
+	Date: 2014-09-21 ; Times: 6
+	Date: 2014-09-22 ; Times: 18
+	Date: 2014-09-23 ; Times: 14
+	Date: 2014-09-24 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:miurus genus:Microtus" ; Times: 1
+	Query: "type:specimen stateprovince:"California" genus:Neotoma mappable:1" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Colorado AND mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "mammalia AND Arkansas" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 3
+	Query: "Pipistrellus" ; Times: 1
+	Query: "Microtus pennsylvanicus tissue:1" ; Times: 1
+	Query: "Sylvilagus" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Alabama AND mammalia AND United States year >= 1900 year <= 2000" ; Times: 1
+	Query: ""skull" specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Tarsier" ; Times: 1
+	Query: "plumas" ; Times: 1
+	Query: "mustelidae" ; Times: 1
+	Query: "genus canis" ; Times: 1
+	Query: "genus:aplodontia (skull)" ; Times: 6
+	Query: "brasiliensis" ; Times: 1
+	Query: "Alabama AND mammalia" ; Times: 1
+	Query: "charles W D" ; Times: 1
+	Query: "bat" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "red squirrel" ; Times: 1
+	Query: "peromyscus" ; Times: 5
+	Query: "canidae" ; Times: 1
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Geomyidae Geomyidae" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "(coendou OR sphiggurus OR chaetomys)" ; Times: 1
+	Query: "class:Mammalia lutra" ; Times: 3
+	Query: "catalognumber:22360 institutioncode:cumv" ; Times: 1
+	Query: "carnivora" ; Times: 2
+	Query: "mammalia AND Alabama" ; Times: 2
+	Query: "Kit Fox" ; Times: 1
+	Query: "myotis" ; Times: 3
+	Query: "lepus" ; Times: 1
+	Query: "Canis lupus AND (familiaris) year >= 1500 year <= 1950" ; Times: 2
+	Query: "mammalia" ; Times: 1
+	Query: "mammalia AND Alabama year >= 1900 year <= 2000" ; Times: 1
+	Query: "genus:Phoca" ; Times: 2
+	Query: ""skull" stateprovince:"Florida" specificepithet:carolinensis genus:Sciurus" ; Times: 2
+	Query: "class:Mammalia Tadarida brasiliensis" ; Times: 4
+	Query: "echinops telfairi" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "felis concolor concolor" ; Times: 1
+	Query: "PROCYON type:specimen" ; Times: 1
+	Query: "lagopus type:specimen" ; Times: 1
+	Query: "macrotus californicus" ; Times: 1
+	Query: "stateprovince:"Wyoming"" ; Times: 1
+	Query: "Dipodomys" ; Times: 3
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "lynx rufus baileyi" ; Times: 2
+	Query: "Myotis sodalis stateprovince:"Alabama"" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "microtus pennsylvanicus new hampshire" ; Times: 1
+	Query: "martes pennanti" ; Times: 1
+	Query: "stateprovince:"alabama" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "neotoma" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "class:Mammalia lutra lutra" ; Times: 4
+	Query: "microtus pennsylvanicus reproductive new hampshire" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "didelphis" ; Times: 5
+	Query: "Peromyscus attwateri" ; Times: 2
+	Query: "sorex" ; Times: 4
+	Query: "class:Mammalia tissue:1" ; Times: 2
+	Query: "microtus pennsylvanicus reproductive year >= 1980 year <= 2014" ; Times: 1
+	Query: "mammals" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "microtus pennsylvanicus reproductive maine" ; Times: 1
+	Query: "microtus pennsylvanicus reproductive" ; Times: 1
+	Query: "Colorado AND mammalia AND United States year >= 1900 year <= 2000" ; Times: 1
+	Query: "mammalia AND Arizona" ; Times: 1
+	Query: "Chiroptera" ; Times: 4
+	Query: "class:Mammalia" ; Times: 117
+	Query: "SL" ; Times: 1
+	Query: "type:specimen class:mammalia mappable:1" ; Times: 1
+	Query: "Canis latrans year >= 1980 year <= 2014" ; Times: 1
+	Query: "Neovison vison distance(location,geopoint(44.05601169578527,-81.71630859375))<259159.61082930744" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Mustelidae" ; Times: 4
+	Query: "(plumas OR feather)" ; Times: 3
+	Query: "erethizontidae" ; Times: 1
+	Query: "Sigmodontinae type:specimen" ; Times: 1
+	Query: "Peromyscus leucopus type:specimen country:"United States"" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "stateprovince:"Alabama" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "Lynx rufus baileyi" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 2
+	Query: "family: erethizontidae" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "mammalia AND Lane County AND Oregon" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "dog" ; Times: 2
+	Query: "mammalia AND Colorado" ; Times: 5
+	Query: ""skull" specificepithet:carolinensis genus:Sciurus (skull)" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 164 download events in this period)
+Total number of records downloaded: 32158 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 20823
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 2
+	Date: 2014-09-03 ; Times: 2
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-10 ; Times: 1
+	Date: 2014-09-11 ; Times: 5
+	Date: 2014-09-12 ; Times: 1
+	Date: 2014-09-15 ; Times: 3
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 4
+	Date: 2014-09-22 ; Times: 4
+	Date: 2014-09-23 ; Times: 3
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "microtus pennsylvanicus new hampshire" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "chiroptera country:"brazil"" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "mammalia AND Alabama" ; Times: 1
+	Query: "mammalia AND Arkansas" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "tachyglossidae; skull" ; Times: 1
+	Query: "ursus americanus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "NASUA" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:fuscipes genus:neotoma" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "stateprovince:"Louisiana" genus:Blarina" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Peromyscus maniculatus tissue:1" ; Times: 1
+	Query: "mammalia AND Lane County AND Oregon" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "callithrix" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1994
+Total number of records retrieved from searches: 98325
+Number of download events that retrieved data from the resource: 440
+Total number of records downloaded: 72032
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1994
+Total number of records retrieved from searches: 98325
+Number of download events that retrieved data from the resource: 539
+Total number of records downloaded: 88363
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
