@@ -1,0 +1,281 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 297
+Number of records retrieved in searches: 11320
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 4
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 237
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 13
+	Date: 2014-12-02 ; Times: 14
+	Date: 2014-12-03 ; Times: 17
+	Date: 2014-12-04 ; Times: 8
+	Date: 2014-12-05 ; Times: 14
+	Date: 2014-12-06 ; Times: 11
+	Date: 2014-12-07 ; Times: 6
+	Date: 2014-12-08 ; Times: 16
+	Date: 2014-12-09 ; Times: 19
+	Date: 2014-12-10 ; Times: 11
+	Date: 2014-12-11 ; Times: 4
+	Date: 2014-12-12 ; Times: 29
+	Date: 2014-12-13 ; Times: 2
+	Date: 2014-12-14 ; Times: 5
+	Date: 2014-12-15 ; Times: 7
+	Date: 2014-12-16 ; Times: 19
+	Date: 2014-12-17 ; Times: 10
+	Date: 2014-12-18 ; Times: 8
+	Date: 2014-12-19 ; Times: 8
+	Date: 2014-12-20 ; Times: 10
+	Date: 2014-12-21 ; Times: 3
+	Date: 2014-12-22 ; Times: 13
+	Date: 2014-12-23 ; Times: 12
+	Date: 2014-12-24 ; Times: 4
+	Date: 2014-12-25 ; Times: 1
+	Date: 2014-12-26 ; Times: 10
+	Date: 2014-12-27 ; Times: 7
+	Date: 2014-12-28 ; Times: 2
+	Date: 2014-12-29 ; Times: 3
+	Date: 2014-12-30 ; Times: 6
+	Date: 2014-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen class:mammalia" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 11
+	Query: "Microtus montanus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma mappable:1" ; Times: 1
+	Query: "mammalia county:"sevier" year >= 1968 year <= 1969" ; Times: 1
+	Query: "wild turkey" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 2
+	Query: ""Mus musculus musculus"" ; Times: 2
+	Query: "wyoming" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Macrotus californicus county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "type:specimen specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Microtus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "conepatus" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 3
+	Query: "type:specimen county:"cochise" genus:spermophilus year >= 1942 year <= 1972" ; Times: 1
+	Query: "bat" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 7
+	Query: "Gulo gulo" ; Times: 3
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "class:Mammalia peromyscus" ; Times: 2
+	Query: "specificepithet:latrans genus:canis year >= 1970" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "red squirrel" ; Times: 1
+	Query: "kjm cumv" ; Times: 1
+	Query: "grizzly" ; Times: 1
+	Query: "stateprovince:"Alaska"" ; Times: 1
+	Query: "ochotona" ; Times: 1
+	Query: "massachusetts mammals" ; Times: 1
+	Query: "Thomomys" ; Times: 1
+	Query: "isla partida type:specimen class:mammalia" ; Times: 2
+	Query: "Microtus californicus paludicola stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "g. s. fuscus" ; Times: 1
+	Query: "order: chiroptera" ; Times: 1
+	Query: "Spermophilus beldingi beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 2
+	Query: "mustela nivalis" ; Times: 2
+	Query: "type:specimen county:"gila" stateprovince:"arizona" genus:idionycteris year >= 1960 year <= 1960" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 3
+	Query: "Guido dingerkus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 2
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "cumv winger" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 2
+	Query: "Montana" ; Times: 1
+	Query: "mcgowan cumv" ; Times: 2
+	Query: "Mustela erminea" ; Times: 4
+	Query: "type:specimen stateprovince:"Kentucky" specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "urocyon" ; Times: 1
+	Query: "Mus musculus musculus" ; Times: 2
+	Query: "mammal massachusetts" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "CUMV Mammal 20442" ; Times: 1
+	Query: "Ursus arctos" ; Times: 3
+	Query: "type:specimen year >= 2003 year <= 2005" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "mammals of Mexico" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 2
+	Query: "microtus pennsylvanicus type:specimen" ; Times: 2
+	Query: "type:specimen county:"yavapai" stateprovince:"arizona" genus:Sciurus year >= 1924 year <= 1924" ; Times: 1
+	Query: "mammalia county:"Catron" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Lutrinae" ; Times: 1
+	Query: "type:specimen (sorex)" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "thylacinus" ; Times: 2
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "sorex araneus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "type:specimen county:"pima" genus:spermophilus year >= 1970 year <= 1970" ; Times: 1
+	Query: "phoca massachusetts" ; Times: 3
+	Query: "Geomys bursarius" ; Times: 2
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "cumv seeholzer" ; Times: 3
+	Query: "bostwick cumv" ; Times: 1
+	Query: "type:specimen county:"lincoln" stateprovince:"maine" year <= 1915" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "type:specimen specificepithet:dorsatum genus:Erethizon year >= 1975" ; Times: 1
+	Query: "mammals" ; Times: 3
+	Query: "Antrozous county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "genus:peromyscus (skull)" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 1
+	Query: "type:specimen genus:Ochotona mappable:1 tissue:1" ; Times: 1
+	Query: "Z" ; Times: 1
+	Query: "Tadarida county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "catalognumber:18629 (Mammal)" ; Times: 1
+	Query: "sciurus griseus" ; Times: 2
+	Query: "type:specimen specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Peromyscus leucopus county:"Queens"" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" mappable:1" ; Times: 1
+	Query: "kentucky" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 3
+	Query: "class:Mammalia" ; Times: 95
+	Query: "Peromyscus leucopus stateprovince:"New York"" ; Times: 1
+	Query: "mammalia" ; Times: 2
+	Query: "university of minnesota" ; Times: 2
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:onychomys year >= 1970 year <= 1970" ; Times: 1
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:dipodomys year >= 1970 year <= 1970" ; Times: 2
+	Query: "catalognumber:18629 (Mammalia)" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus year >= 1975" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Thomomys talpoides (colorado) mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus county:"Bronx"" ; Times: 1
+	Query: "stateprovince:"kentucky"" ; Times: 2
+	Query: "Sorex vagrans" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus year >= 1975" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 4
+	Query: "sigmodontinae" ; Times: 1
+	Query: "eira barbara eira barbara country:"mexico" (eira barbara) AND (eira barbara)" ; Times: 3
+	Query: "puma new york" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus mappable:1" ; Times: 1
+	Query: "erethizon dorsatum type:specimen" ; Times: 1
+	Query: "BYU" ; Times: 1
+	Query: "class:Mammalia Peromyscus" ; Times: 1
+	Query: "sciurus niger" ; Times: 3
+	Query: ""Gulo gulo" mappable:1" ; Times: 1
+	Query: "Plecotus county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "mus musculus musculus" ; Times: 2
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "Mustela erminea type:specimen mappable:1" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "year >= 2003 year <= 2005" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "dog" ; Times: 1
+	Query: "class:Mammalia mephitis mephitis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 238 download events in this period)
+Total number of records downloaded: 2326 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2146
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-02 ; Times: 1
+	Date: 2014-12-03 ; Times: 5
+	Date: 2014-12-04 ; Times: 2
+	Date: 2014-12-05 ; Times: 3
+	Date: 2014-12-09 ; Times: 2
+	Date: 2014-12-10 ; Times: 2
+	Date: 2014-12-15 ; Times: 3
+	Date: 2014-12-16 ; Times: 1
+	Date: 2014-12-18 ; Times: 2
+	Date: 2014-12-19 ; Times: 1
+	Date: 2014-12-22 ; Times: 1
+	Date: 2014-12-23 ; Times: 3
+	Date: 2014-12-24 ; Times: 6
+	Date: 2014-12-26 ; Times: 2
+	Date: 2014-12-28 ; Times: 2
+	Date: 2014-12-30 ; Times: 1
+	Date: 2014-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "wyoming" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Spermophilus beldingi beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Microtus montanus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "Ochotona princeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "chiroptera panama" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "county:"McKinley" stateprovince:"New Mexico"" ; Times: 1
+	Query: "type:specimen genus:lynx" ; Times: 1
+	Query: "chiroptera stateprovince:"New Mexico" year <= 1959" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "Macrotus californicus county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "Microtus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "peromyscus eremicus stateprovince:"california"" ; Times: 1
+	Query: "type:specimen genus:Ochotona mappable:1 tissue:1" ; Times: 1
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 2
+	Query: "Baiomys taylori" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "thyroptera" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus year >= 1975" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus year >= 1975" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2708
+Total number of records retrieved from searches: 125505
+Number of download events that retrieved data from the resource: 542
+Total number of records downloaded: 79653
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2708
+Total number of records retrieved from searches: 125505
+Number of download events that retrieved data from the resource: 641
+Total number of records downloaded: 95984
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
