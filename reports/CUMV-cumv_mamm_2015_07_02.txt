@@ -1,0 +1,345 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 2333
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 14
+	Country: France ; Times: 3
+	Country: Italy ; Times: 10
+	Country: Mexico ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 219
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 22
+	Date: 2015-06-02 ; Times: 34
+	Date: 2015-06-03 ; Times: 8
+	Date: 2015-06-04 ; Times: 8
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-07 ; Times: 5
+	Date: 2015-06-08 ; Times: 8
+	Date: 2015-06-09 ; Times: 13
+	Date: 2015-06-10 ; Times: 8
+	Date: 2015-06-11 ; Times: 7
+	Date: 2015-06-12 ; Times: 6
+	Date: 2015-06-13 ; Times: 5
+	Date: 2015-06-14 ; Times: 3
+	Date: 2015-06-15 ; Times: 12
+	Date: 2015-06-16 ; Times: 8
+	Date: 2015-06-17 ; Times: 10
+	Date: 2015-06-18 ; Times: 6
+	Date: 2015-06-19 ; Times: 7
+	Date: 2015-06-20 ; Times: 13
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-22 ; Times: 6
+	Date: 2015-06-23 ; Times: 5
+	Date: 2015-06-24 ; Times: 17
+	Date: 2015-06-25 ; Times: 14
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 19
+	Date: 2015-06-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Ursidae" ; Times: 1
+	Query: "auburn" ; Times: 1
+	Query: "hbs" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Didelphis" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Sorex" ; Times: 1
+	Query: "ondatra (ondatra)" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "(Scutisorex )" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "distance(location,geopoint(39.941330683786894,-122.61154174804688))<33897" ; Times: 1
+	Query: "specificepithet:panamintinus genus:Dipodomys mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:leucopus genus:peromyscus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 2
+	Query: "type:specimen specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "perognathus formosus California mappable:1" ; Times: 1
+	Query: "kansas university" ; Times: 2
+	Query: "leopard frog" ; Times: 1
+	Query: "stateprovince:"Arizona" distance(location,geopoint(33.17434155100208,-112.0166015625))<24794.94711660441" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "blarina 2072" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "Canis latrans" ; Times: 4
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "county:"Riverside" stateprovince:"California" country:"United States"" ; Times: 1
+	Query: "Antilocapra" ; Times: 9
+	Query: "mellivora capensis" ; Times: 1
+	Query: "ursidae" ; Times: 1
+	Query: "hudsonicus" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "mammalia lima" ; Times: 2
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "distance(location,geopoint(32.21667476177436,-104.87274169921875))<25408" ; Times: 1
+	Query: "class:Mammalia mandrillus leucophaeus" ; Times: 1
+	Query: "spermophilus tereticaudus" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States"" ; Times: 1
+	Query: ""Sorex palustris punctulatus" stateprovince:"North Carolina" country:"United States"" ; Times: 3
+	Query: "Arkansas type:specimen year >= 1985 year <= 2015" ; Times: 1
+	Query: "cleveland" ; Times: 1
+	Query: "skeleton mammal large type:specimen" ; Times: 1
+	Query: "Lepus californicus mappable:1" ; Times: 1
+	Query: "mammalia 10757" ; Times: 1
+	Query: "Lasiurus mappable:1" ; Times: 1
+	Query: "Tamiasciurus wyoming" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "panama" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon mappable:1" ; Times: 1
+	Query: "Myotis californicus country:"United States"" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 2
+	Query: "genus:lutra (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Tamiasciurus hudsonicus wyoming" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 2
+	Query: "Archbold Biological Station county:"Highlands" stateprovince:"Florida" class:Mammalia" ; Times: 1
+	Query: "county:"Tulare County" stateprovince:"California" country:"United States"" ; Times: 1
+	Query: "ovis orientalis" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "Myotis keenii country:"Canada"" ; Times: 1
+	Query: "genus:Bison class:Mammalia mappable:1" ; Times: 1
+	Query: "molossus (trinidad) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Ochotona princeps (Montana)" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "specificepithet:uncia genus:panthera" ; Times: 16
+	Query: "tamias umbrinus" ; Times: 3
+	Query: "Lontra canadensis (Skeleton)" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(42.73087427928485,-76.2451171875))<44983" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "11512" ; Times: 1
+	Query: "type:specimen genus:Sciurus media:1" ; Times: 1
+	Query: "yukon Canada" ; Times: 11
+	Query: "specificepithet:uncia" ; Times: 1
+	Query: "distance(location,geopoint(39.70718665682654,-89.736328125))<100000" ; Times: 1
+	Query: "choloepus fetus" ; Times: 3
+	Query: "Dipodomys merriami county:"San Diego" stateprovince:"California"" ; Times: 2
+	Query: "cumv 9885" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "distance(location,geopoint(32.051541603052556,-104.7216796875))<19070.317374874783" ; Times: 1
+	Query: "macrotus californicus" ; Times: 1
+	Query: "specificepithet:mexicana genus:Dasyprocta" ; Times: 1
+	Query: "yukon" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Archbold Biological Station" ; Times: 2
+	Query: "genus:neurotrichus" ; Times: 1
+	Query: "odocoileus" ; Times: 3
+	Query: "12243 (skull)" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Dipodomys panamintinus county:"San Bernardino County" stateprovince:"California"" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: "distance(location,geopoint(38.01924721063229,-97.822265625))<100000" ; Times: 1
+	Query: "Lasiurus cinereus California mappable:1" ; Times: 2
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "EAR 1856" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.6599240747891,-74.5751953125))<39500" ; Times: 1
+	Query: "genus:Neovison (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "mammal Mclean Illinois" ; Times: 1
+	Query: "stateprovince:"new york" country:"united states" class:mammalia" ; Times: 1
+	Query: "(Mono)" ; Times: 1
+	Query: "Antrozous pallidus" ; Times: 1
+	Query: "mineral county colorado" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 2
+	Query: "county:"San luis obispo" stateprovince:"California"" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.6599240747891,-74.5751953125))<100000" ; Times: 1
+	Query: ""Tadarida brasiliensis"" ; Times: 2
+	Query: "ursus arctos" ; Times: 2
+	Query: "county:"Pinal" stateprovince:"Arizona" year <= 2015" ; Times: 1
+	Query: "pinal county arizona" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "procyon" ; Times: 1
+	Query: "type:specimen genus:Sciurus" ; Times: 2
+	Query: "septentrionalis" ; Times: 1
+	Query: "mammalia shingle shanty type:specimen distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "zapus hudsonicus" ; Times: 2
+	Query: "stateprovince:"new york" country:"united states" class:mammalia year >= 2000 year <= 2013" ; Times: 1
+	Query: "genus:Leopardus (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 2
+	Query: "White lake california" ; Times: 2
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.31318813919643,-74.7784423828125))<100000" ; Times: 1
+	Query: "R distance(location,geopoint(41.11246878918085,-88.59375))<100000" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "Tamias alpinus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "ondatra" ; Times: 1
+	Query: "genus:neofelis (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "otariidae" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year <= 2015" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus" ; Times: 1
+	Query: "distance(location,geopoint(32.21667476177436,-104.87274169921875))<19070.317374874783" ; Times: 1
+	Query: "point data mammalia" ; Times: 2
+	Query: "myotis californicus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"Montana" year >= 1800 year <= 1979" ; Times: 1
+	Query: "blarina 2112" ; Times: 1
+	Query: "type:specimen stateprovince:"Chiapas" country:"Mexico" year >= 1950 year <= 2015" ; Times: 1
+	Query: "chiroptera country:"United States" mappable:1" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "cleveland museum" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<39499.562392873406" ; Times: 1
+	Query: "Myotis lucifugus year >= 1850 year <= 2000 mappable:1" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "Enfield county:"Tompkins" stateprovince:"New York"" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (leo)" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "stateprovince:"new york" country:"united states" class:mammalia year >= 2012 year <= 2013" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 7
+	Query: "mammal Mclean county Illinois" ; Times: 2
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "county:"Montour" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1524 download events in this period)
+Total number of records downloaded: 2519 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2328
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 5
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 13
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-18 ; Times: 3
+	Date: 2015-06-19 ; Times: 6
+	Date: 2015-06-22 ; Times: 3
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cave alabama" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:"Michigan" mappable:1" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Myotis keenii country:"Canada"" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 2
+	Query: "county:"kern" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Eptesicus fuscus country:"Mexico"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Michigan" year >= 1850 year <= 2000 mappable:1" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: ""Rattus norvegicus" type:specimen tissue:1" ; Times: 1
+	Query: ""Sorex palustris punctulatus" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "antilocapra americana mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3492
+Total number of records retrieved from searches: 134145
+Number of download events that retrieved data from the resource: 301
+Total number of records downloaded: 38673
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3952
+Total number of records retrieved from searches: 141526
+Number of download events that retrieved data from the resource: 942
+Total number of records downloaded: 134657
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
