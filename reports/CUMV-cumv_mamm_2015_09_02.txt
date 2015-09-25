@@ -1,0 +1,378 @@
+Report for Institution Code CUMV, Resource Mammal specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 2736
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 5
+	Country: Chile ; Times: 3
+	Country: France ; Times: 10
+	Country: Hungary ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 26
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 175
+	Country: Unknown ; Times: 11
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 4
+	Date: 2015-08-03 ; Times: 19
+	Date: 2015-08-04 ; Times: 11
+	Date: 2015-08-05 ; Times: 6
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-10 ; Times: 15
+	Date: 2015-08-11 ; Times: 9
+	Date: 2015-08-12 ; Times: 9
+	Date: 2015-08-13 ; Times: 18
+	Date: 2015-08-17 ; Times: 11
+	Date: 2015-08-18 ; Times: 11
+	Date: 2015-08-19 ; Times: 15
+	Date: 2015-08-20 ; Times: 5
+	Date: 2015-08-21 ; Times: 11
+	Date: 2015-08-22 ; Times: 4
+	Date: 2015-08-23 ; Times: 3
+	Date: 2015-08-24 ; Times: 18
+	Date: 2015-08-25 ; Times: 37
+	Date: 2015-08-26 ; Times: 12
+	Date: 2015-08-27 ; Times: 5
+	Date: 2015-08-28 ; Times: 12
+	Date: 2015-08-30 ; Times: 6
+	Date: 2015-08-31 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Texas" genus:Conepatus" ; Times: 2
+	Query: "Tamiasciurus Alaska" ; Times: 3
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: "Tijuana River" ; Times: 2
+	Query: "Dipodomys venustus" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "field notebook" ; Times: 1
+	Query: "Scapanus townsendii" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Mammalia year >= 1960 year <= 2015 mappable:1 distance(location,geopoint(53.54030739150025,-104.58984375))<1838979" ; Times: 1
+	Query: "year >= 1960 year <= 2015 mappable:1 distance(location,geopoint(71.85622888185527,-153.45703125))<482570" ; Times: 1
+	Query: "ovis canadensis" ; Times: 2
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "schulenberg" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "byu" ; Times: 1
+	Query: "distance(location,geopoint(16.573022719182777,-92.87841796875))<100000" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 2
+	Query: "Connecticut" ; Times: 1
+	Query: "didelphis stateprovince:"Illinois"" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "year >= 1960 year <= 2015 mappable:1 distance(location,geopoint(71.85622888185527,-153.45703125))<520314" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(38.548165423046584,-93.955078125))<2285070.660125419" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Canis latrans" ; Times: 4
+	Query: "Lasiurus cinereus" ; Times: 4
+	Query: "19463" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "geomys" ; Times: 2
+	Query: "stateprovince:"South Carolina"" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "county:"Logan" stateprovince:"Arkansas" class:Mammalia" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(41.32732632036622,-75.047607421875))<100000" ; Times: 1
+	Query: "johannesdottir" ; Times: 2
+	Query: "Smith 1940" ; Times: 2
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "stateprovince:"Alaska"" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(40.6306300839918,-76.080322265625))<100000" ; Times: 1
+	Query: "perognathus parvus" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Didelphidae" ; Times: 2
+	Query: "Cricetidae" ; Times: 1
+	Query: "spermophilus tereticaudus" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 2
+	Query: "cyclopes" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "specificepithet:rufus genus:lynx mappable:1" ; Times: 2
+	Query: "New Mexico" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "stateprovince:"Arkansas" specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:tricolor genus:thyroptera" ; Times: 1
+	Query: "distance(location,geopoint(34.529187069549344,-80.12054443359375))<100000" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "didelphidae" ; Times: 2
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "5073" ; Times: 2
+	Query: "El Paso Texas" ; Times: 1
+	Query: "Dama" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 2
+	Query: "catalognumber:7036 institutioncode:cumv" ; Times: 2
+	Query: "13148" ; Times: 1
+	Query: "Tijuana RIver" ; Times: 2
+	Query: ""Eumops perotis" mappable:1" ; Times: 1
+	Query: "erethizon dorsatum colorado" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 3
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "type:specimen genus:Sciurus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:peromyscus tissue:1" ; Times: 1
+	Query: "Bovidae" ; Times: 3
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 3
+	Query: "catalognumber:463 institutioncode:CUMV" ; Times: 1
+	Query: ""macrotis" media:1" ; Times: 2
+	Query: "sphagnicola" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 3
+	Query: "year >= 1960 year <= 2015 mappable:1 distance(location,geopoint(71.85622888185527,-153.45703125))<931603" ; Times: 1
+	Query: "synaptomys cooperi new york essex county" ; Times: 2
+	Query: "macrotis" ; Times: 1
+	Query: "sigmodon pima county" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "stateprovince:"Arkansas" genus:Cryptotis" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(40.6306300839918,-76.080322265625))<70577" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(33.7243396617476,-49.658203125))<2285071" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: ""Didelphis virginiana" mappable:1" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "neotoma" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Heterocephalus" ; Times: 3
+	Query: "(skel or skeleton)" ; Times: 2
+	Query: "synaptomys" ; Times: 1
+	Query: "Sorex trowbridgii" ; Times: 1
+	Query: "genus: mustela specificepithet: nigripes" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: ""myotis" media:1" ; Times: 2
+	Query: "Didelphis" ; Times: 1
+	Query: "dipodomys venustus" ; Times: 1
+	Query: "county:"Hamilton" stateprovince:"Ohio" class:mammalia year <= 2015" ; Times: 1
+	Query: "didelphis" ; Times: 4
+	Query: "genus:Microtus" ; Times: 1
+	Query: ""Erethizon dorsatum" mappable:1" ; Times: 1
+	Query: "Promops centralis stateprovince:"Oaxaca"" ; Times: 1
+	Query: "salton sea" ; Times: 1
+	Query: "neotoma floridana" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "connecticut" ; Times: 3
+	Query: "Marmota flaviventris wyoming" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Zapus trinotatus" ; Times: 1
+	Query: "specificepithet:axis genus:Axis" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Cryptotis alticola" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 5
+	Query: "(mammalia) tissue:1" ; Times: 1
+	Query: "Sciurus carolinensis type:specimen tissue:1" ; Times: 2
+	Query: "dipodomys deserti" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 6
+	Query: "genus:Myotis" ; Times: 2
+	Query: "lepus americanus" ; Times: 7
+	Query: "perognathus mollipilosus" ; Times: 1
+	Query: "type:specimen stateprovince:"Texas" class:Mammalia" ; Times: 1
+	Query: "Microtus oregoni" ; Times: 1
+	Query: "microtus californicus" ; Times: 4
+	Query: "type:specimen specificepithet:maniculatus genus:peromyscus tissue:1" ; Times: 1
+	Query: "geomys pinetis type:specimen (weight)" ; Times: 1
+	Query: "synaptomys cooperi" ; Times: 1
+	Query: "genus:Sciurus" ; Times: 1
+	Query: "El Paso County Texas type:specimen year <= 2000" ; Times: 3
+	Query: "myotis country:"mexico"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 2
+	Query: "geomys type:specimen (weight)" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 4
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "synaptomys cooperi new york" ; Times: 1
+	Query: "marmota flaviventris wyoming" ; Times: 2
+	Query: "Thomomys bulbivorus" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "LYNX RUFUS" ; Times: 2
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: "peromyscus sangre de cristo" ; Times: 1
+	Query: "sigmodon santa cruz county arizona" ; Times: 1
+	Query: "type:specimen stateprovince:"California" class:Mammalia" ; Times: 2
+	Query: "synaptomys borealis distance(location,geopoint(43.068887774169625,-71.19140625))<100000" ; Times: 1
+	Query: "sigmodon avra valley arizona" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: ""Cyclopes didactylus" mappable:1" ; Times: 1
+	Query: "synaptomys cooperi new york hamilton county" ; Times: 1
+	Query: "sedgwick" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "francis marion distance(location,geopoint(32.13840869677251,-81.16973876953125))<100000" ; Times: 1
+	Query: "hawk" ; Times: 1
+	Query: "483" ; Times: 1
+	Query: "Tijuana" ; Times: 2
+	Query: ""Archbold biological station"" ; Times: 1
+	Query: "tom schulenberg" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "Linnaeus tissue:1" ; Times: 2
+	Query: "diptera" ; Times: 1
+	Query: "nys" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(41.32732632036622,-75.047607421875))<41961" ; Times: 1
+	Query: "peromyscus leucopus (tissue)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 1138 download events in this period)
+Total number of records downloaded: 25943 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12483
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 60
+	Country: Unknown ; Times: 6
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 4
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 10
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-19 ; Times: 5
+	Date: 2015-08-21 ; Times: 4
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 7
+	Date: 2015-08-25 ; Times: 40
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 4
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Tijuana River" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: ""Noctilio albiventris" mappable:1" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: ""Eumops perotis" mappable:1" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "order: pholidota" ; Times: 1
+	Query: ""Pecari tajacu" mappable:1" ; Times: 1
+	Query: "johannesdottir" ; Times: 1
+	Query: "perognathus flavescens" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "Dicrostonyx hudsonius" ; Times: 1
+	Query: "perognathus parvus" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "country:"Mexico" specificepithet:tricolor genus:thyroptera" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:peromyscus tissue:1" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: "Sorex pacificus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 3
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 2
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Sciurus carolinensis type:specimen tissue:1" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "type:specimen specificepithet:maniculatus genus:peromyscus tissue:1" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "marmota flaviventris wyoming" ; Times: 3
+	Query: "Thomomys bulbivorus" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: ""Cyclopes didactylus" mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 265
+Total number of records retrieved from searches: 2736
+Number of download events that retrieved data from the resource: 98
+Total number of records downloaded: 25943
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 265
+Total number of records retrieved from searches: 2736
+Number of download events that retrieved data from the resource: 98
+Total number of records downloaded: 25943
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
