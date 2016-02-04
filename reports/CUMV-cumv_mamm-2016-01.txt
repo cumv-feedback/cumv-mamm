@@ -1,0 +1,237 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 1113
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 109
+	Country: Switzerland ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 5
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 5
+	Date: 2016-01-24 ; Times: 4
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-28 ; Times: 11
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 4
+	Date: 2016-01-09 ; Times: 5
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-19 ; Times: 6
+	Date: 2016-01-07 ; Times: 7
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 5
+	Date: 2016-01-11 ; Times: 13
+	Date: 2016-01-10 ; Times: 5
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 6
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-31 ; Times: 12
+	Date: 2016-01-30 ; Times: 6
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "nycticeius humeralis" ; Times: 3
+	Query: "Molossus" ; Times: 2
+	Query: "Lasiurus borealis Nebraska" ; Times: 1
+	Query: "Didelphis &#34;virginiana&#34; mappable:1" ; Times: 3
+	Query: "university of texas" ; Times: 1
+	Query: "myoictis melas" ; Times: 1
+	Query: "home page" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 2
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 2
+	Query: "dasypus novemcinctus type:specimen preparations:skull" ; Times: 1
+	Query: "Lynx lynx" ; Times: 2
+	Query: "specificepithet:sabrinus genus:Glaucomys" ; Times: 1
+	Query: "class:mammalia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34; mappable:1" ; Times: 1
+	Query: "reithrodontomys sumichrasti type:specimen country:&#34;mexico&#34; year &gt;= 1960 year &lt;= 2015" ; Times: 3
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Pteronotus" ; Times: 1
+	Query: "Lasiurus borealis type:specimen mappable:1" ; Times: 4
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis mappable:1" ; Times: 1
+	Query: "Dipodomys McKittrick California" ; Times: 2
+	Query: "Pteropodidae distance(location,geopoint(20.797201434307,126.474609375))&lt;2517134" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "Microcavia" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys mappable:1 distance(location,geopoint(27.800209937418252,-82.50732421875))&lt;59773.98665425894" ; Times: 1
+	Query: "Didelphidae" ; Times: 2
+	Query: "mammal" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys (skull OR skeleton) mappable:1 distance(location,geopoint(28.806173508854776,-82.59521484375))&lt;53828" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Dipodomys merriami county:&#34;San Diego&#34;" ; Times: 3
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "cumv 854" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skeleton skull)" ; Times: 1
+	Query: "Antrozous" ; Times: 1
+	Query: "cumv 1260" ; Times: 1
+	Query: "cumv 712" ; Times: 1
+	Query: "Cambarus" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys (skull OR skeleton) mappable:1 distance(location,geopoint(28.38173504322308,-82.7490234375))&lt;79246.67084907244" ; Times: 1
+	Query: "cumv 397" ; Times: 1
+	Query: "Balaenoptera physalus year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 3
+	Query: "lasiurus borealis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skeleton)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 3
+	Query: "type:specimen specificepithet:sumichrasti genus:reithrodontomys country:&#34;mexico&#34; year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "cumv 837" ; Times: 2
+	Query: "Crocidura type:specimen" ; Times: 1
+	Query: "Myotis septentrionalis (Virginia)" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "cumv 8235" ; Times: 2
+	Query: "genus:Sorex stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "cumv 8233" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 4
+	Query: "specificepithet:subflavus stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "21381" ; Times: 1
+	Query: "connecticut" ; Times: 1
+	Query: "Erethizon &#34;dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "genus:Sorex county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "beecheyi" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "saussure" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(46.16493157667521,-122.23526000976562))&lt;100000" ; Times: 1
+	Query: "class:mammalia county:&#34;Sedgwick&#34; stateprovince:&#34;Kansas&#34; mappable:1" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "USNM 4393" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "Condylura cristata mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus in Massachusetts" ; Times: 1
+	Query: "Lasiurus Nebraska" ; Times: 1
+	Query: "2135" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Auburn University" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "apodemus sylvaticus" ; Times: 1
+	Query: "Lasiurus cinereus type:specimen mappable:1" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "hazel" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys (skull OR skeleton) mappable:1 distance(location,geopoint(28.806173508854776,-82.59521484375))&lt;79246.67084907244" ; Times: 1
+	Query: "cetacea" ; Times: 2
+	Query: "odocoileus" ; Times: 1
+	Query: "Lasionycteris Nebraska" ; Times: 1
+	Query: "Lasiurus borealis type:specimen" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 2
+	Query: "cumv 720" ; Times: 1
+	Query: "cumv 728" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 507 download events in this period)
+Total number of records downloaded: 13260
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 26
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;United States&#34;" ; Times: 2
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Taxidea taxus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "genus:Sorex county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
