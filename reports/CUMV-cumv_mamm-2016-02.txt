@@ -1,0 +1,237 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 2701
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 6
+	Country: United States ; Times: 151
+	Country: Sweden ; Times: 8
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 14
+	Date: 2016-02-19 ; Times: 12
+	Date: 2016-02-12 ; Times: 5
+	Date: 2016-02-10 ; Times: 19
+	Date: 2016-02-11 ; Times: 5
+	Date: 2016-02-16 ; Times: 6
+	Date: 2016-02-17 ; Times: 8
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-03 ; Times: 16
+	Date: 2016-02-09 ; Times: 3
+	Date: 2016-02-08 ; Times: 12
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-20 ; Times: 5
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 9
+	Date: 2016-02-01 ; Times: 6
+	Date: 2016-02-29 ; Times: 10
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-05 ; Times: 9
+	Date: 2016-02-04 ; Times: 29
+	Date: 2016-02-07 ; Times: 13
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "genus:ochotona stateprovince:Nevada year&gt;=2000" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Didelphis" ; Times: 1
+	Query: "Scapanus townsendii" ; Times: 1
+	Query: "county:&#34;Osceola&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Didelphis mappable:1" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "jeremy searle" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;baja california&#34;" ; Times: 2
+	Query: "Blarina carolinensis" ; Times: 1
+	Query: "county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "lutra institutioncode:CUMV" ; Times: 6
+	Query: "1931/105" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "genus:ochotona stateprovince:Nevada year&gt;= 1950" ; Times: 1
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "dipodomys continent:america" ; Times: 1
+	Query: "johannesdottir" ; Times: 1
+	Query: "phocidae" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Nevada&#34; continent:North America mappable:1" ; Times: 1
+	Query: "catalognumber:19665 institutioncode:CUMV" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Bergen Swamp" ; Times: 4
+	Query: "&#34;Didelphis&#34; &#34;Didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Nevada&#34; continent:North America" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "class:mammalia county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "fort hays state university" ; Times: 1
+	Query: "locality:albany stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "microtus leucopus" ; Times: 2
+	Query: "Martes" ; Times: 1
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "State Museum in Albany" ; Times: 1
+	Query: "frida johannesdottir tamiasciurus" ; Times: 2
+	Query: "genus:ochotona stateprovince:Nevada" ; Times: 2
+	Query: "erethizon dorsatum mappable:1" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "class:Mammalia distance(location,geopoint(23.7322406087444,-110.13914108276367))&lt;100000" ; Times: 1
+	Query: "Procyon lotor type:specimen (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "genus:inia" ; Times: 3
+	Query: "didelphis virginiana mappable:1" ; Times: 4
+	Query: "inia geoffrensis" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Didelphimorphia" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "lepus americanus" ; Times: 8
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 3
+	Query: "osos" ; Times: 1
+	Query: "Myotis septentrionalis (Michigan)" ; Times: 2
+	Query: "jacob tyrell" ; Times: 1
+	Query: "county:&#34;Emery&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 3
+	Query: "devil" ; Times: 2
+	Query: "&#34;Erethizon&#34; &#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "chiroptera baja california" ; Times: 1
+	Query: "france" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "catalognumber:19654 institutioncode:CUMV" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus mappable:1" ; Times: 1
+	Query: "Urocyon" ; Times: 1
+	Query: "ochotona princeps" ; Times: 3
+	Query: "martes" ; Times: 1
+	Query: "population" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "fur" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "lynx" ; Times: 1
+	Query: "frida johannesdottir" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;riverside&#34;" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "Microtus californicus county:&#34;San Diego County&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus" ; Times: 1
+	Query: "genus:ochotona stateprovince:Nevada year&gt;= 2000" ; Times: 3
+	Query: "Neovison vison" ; Times: 1
+	Query: "dipodomys" ; Times: 2
+	Query: "specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "sorex (NOT institutioncode:CHAS)" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "barber kansas barber" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 7
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Canis latrans" ; Times: 3
+	Query: "cumv 1721" ; Times: 1
+	Query: "chiroptera baculum" ; Times: 19
+	Query: "Dipodomys merriami county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 5
+	Query: "class:Mammalia distance(location,geopoint(23.779061416101943,-110.13587951660156))&lt;100000" ; Times: 1
+	Query: "CUMV 15189" ; Times: 1
+	Query: "DIPODOMYS" ; Times: 1
+	Query: "Borneo Rodentia" ; Times: 2
+	Query: "class:Mammalia country:&#34;Kenya&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 9
+	Query: "Didelphis Virginiana mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 512 download events in this period)
+Total number of records downloaded: 11932
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 23
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "tissue:1" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "heteromyidae mappable:1" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
