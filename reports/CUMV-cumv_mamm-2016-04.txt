@@ -1,0 +1,371 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 294
+Number of records retrieved in searches: 2521
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: United States ; Times: 178
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 33
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 11
+	Date: 2016-04-02 ; Times: 6
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 15
+	Date: 2016-04-05 ; Times: 19
+	Date: 2016-04-04 ; Times: 13
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 30
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-25 ; Times: 8
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 36
+	Date: 2016-04-26 ; Times: 20
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 22
+	Date: 2016-04-19 ; Times: 16
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 11
+	Date: 2016-04-16 ; Times: 3
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 12
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 12
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis AND Island AND California" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "monroe country year &gt;= 1912 year &lt;= 1928" ; Times: 1
+	Query: "specificepithet:ichneumon genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "CUMV AND Santa Cruz Island" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "class:Mammalia (weight)" ; Times: 1
+	Query: "tamias striatus" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-105.877516))&lt;15000" ; Times: 1
+	Query: "population data" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "specificepithet:parvula genus:Helogale family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "specificepithet:tigrina genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-106.047516))&lt;15000" ; Times: 1
+	Query: "Dipodomys venustus" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;arizona&#34; tissue:1" ; Times: 2
+	Query: "cryptotis" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Douglas Fir" ; Times: 2
+	Query: "order:artiodactyla class:Mammalia AND (juvenile)" ; Times: 2
+	Query: "CUMV AND Santa Catalina Island" ; Times: 1
+	Query: "genus:Ammospermophilus mappable:1" ; Times: 1
+	Query: "the mammal of new mexico" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "sorex palustris" ; Times: 2
+	Query: "R-15469" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 3
+	Query: "tamiasciurus douglasii" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "Chiricahua Mountains" ; Times: 4
+	Query: "Chico" ; Times: 1
+	Query: "CUMV 12925" ; Times: 1
+	Query: "ku mammalia" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.557516))&lt;15000" ; Times: 1
+	Query: "Canis lupus lycaon ONTARIO 1" ; Times: 2
+	Query: "tamias amoenus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Macrotus" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "MINNESOTA" ; Times: 1
+	Query: "peromyscus nasutus" ; Times: 3
+	Query: "Herpestes" ; Times: 2
+	Query: "Felidae" ; Times: 1
+	Query: "Canis lupus lycaon Ontario 1" ; Times: 1
+	Query: "microtus pennsylvanicus rhode island" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "chiroptera baja california order:chiroptera" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Phloeomys cumingi" ; Times: 2
+	Query: "type:specimen class:Mammalia stateprovince:&#34;Virginia&#34; (county:Accomack OR county:Northampton )" ; Times: 2
+	Query: "Tamiasciurus douglasii" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "thomomys bottae" ; Times: 1
+	Query: "Marmota" ; Times: 4
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Rattus norvegicus new york" ; Times: 1
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 2
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "sorex palustris connecticut" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 2
+	Query: "Hemphill" ; Times: 1
+	Query: "helogale weight" ; Times: 2
+	Query: "Reithrodontomys megalotis megalotis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "devil" ; Times: 3
+	Query: "free" ; Times: 1
+	Query: "reithrodontomys megalotis megalotis" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 4
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Dipodomys californicus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.807516))&lt;15000" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Mephitis macroura" ; Times: 2
+	Query: "noctilio" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "genus:Napaeozapus tissue:1" ; Times: 1
+	Query: "CUMV 13267" ; Times: 2
+	Query: "dipodomys merriami tucson" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 1
+	Query: "aplodontia" ; Times: 1
+	Query: "genus:FELIS family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 2
+	Query: "specificepithet:SILVESTRIS genus:FELIS family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "martes pennanti" ; Times: 1
+	Query: "Artiodactyla" ; Times: 2
+	Query: "mephitis macroura" ; Times: 3
+	Query: "Canis lupus lycaon Ontario" ; Times: 10
+	Query: "galemys" ; Times: 3
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "lutra lutra" ; Times: 4
+	Query: "type:specimen media:1" ; Times: 2
+	Query: "CUMV 13965" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 2
+	Query: "lutra lutra mappable:1" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "class:Mammalia (weight) AND (rodentia)" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia (weight)" ; Times: 3
+	Query: "minnesota mammalia" ; Times: 1
+	Query: "specificepithet:silvestris genus:felis family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "family:molossidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "5363 cumv" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Micromys minutus" ; Times: 2
+	Query: "10371" ; Times: 1
+	Query: "microtus ochrogaster media:1" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia (weight) AND (juvenile)" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.977516))&lt;15000" ; Times: 3
+	Query: "transitionalis" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:ichneumon genus:Herpestes family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.977516))&lt;15000" ; Times: 1
+	Query: "(castor canadensis)" ; Times: 1
+	Query: "Jackson 1917" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 4
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 5
+	Query: "14798" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.107516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "genus:peromyscus locality:chiricahua" ; Times: 1
+	Query: "specificepithet:striatus genus:ictonyx order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus" ; Times: 1
+	Query: "promops centralis" ; Times: 2
+	Query: "dipodomys" ; Times: 1
+	Query: "genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "order:Artiodactyla tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "Mustelidae" ; Times: 2
+	Query: "year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 2
+	Query: "Bassariscus specimens texas type:specimen" ; Times: 1
+	Query: "CUMV AND Santa Rosa Island" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "Mustela frenata" ; Times: 1
+	Query: "erinaceidae" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "stateprovince:&#34;oklahoma&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "Geomyidae" ; Times: 2
+	Query: "glaucomys" ; Times: 2
+	Query: "Otariidae" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "A-473" ; Times: 2
+	Query: "yellowstone" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Procyonidae" ; Times: 1
+	Query: "locality:Berkeley" ; Times: 1
+	Query: "11650" ; Times: 3
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Smyrna" ; Times: 1
+	Query: "11650 mammal" ; Times: 2
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "crocidura" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "genus:ichneumia order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.467516))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 160 (out of 1312 download events in this period)
+Total number of records downloaded: 74963
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 21
+	Country: United States ; Times: 106
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-06 ; Times: 17
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 10
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-08 ; Times: 7
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 10
+	Date: 2016-04-13 ; Times: 5
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;Virginia&#34; (county:Accomack OR county:Northampton )" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Urocyon littoralis santacruzae" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia" ; Times: 12
+
+
+End of report.
