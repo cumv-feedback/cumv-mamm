@@ -1,0 +1,177 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 1405
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 81
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 11
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 7
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 12
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 4
+	Date: 2016-05-10 ; Times: 4
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-03 ; Times: 9
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 8
+	Date: 2016-05-27 ; Times: 4
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 5
+	Date: 2016-05-22 ; Times: 7
+	Date: 2016-05-20 ; Times: 8
+	Date: 2016-05-21 ; Times: 4
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "university of minnesota" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 11
+	Query: "(weight) AND (cricetidae) institutioncode:CUMV" ; Times: 1
+	Query: "Mustelidae" ; Times: 2
+	Query: "CUMV 14928" ; Times: 2
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mephitis mephitis" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34; genus:nasua year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "CUMV 14927" ; Times: 1
+	Query: "genus:Marmota tissue:1" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Dipodomys heermanni" ; Times: 2
+	Query: "leopard frog" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2014" ; Times: 1
+	Query: "class:Mammalia (weight) AND (NOT cricetidae) institutioncode:CUMV" ; Times: 1
+	Query: "Mammal" ; Times: 1
+	Query: "Marmota marmota" ; Times: 2
+	Query: "castor canadensis" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "Gulo weight" ; Times: 2
+	Query: "catron county" ; Times: 1
+	Query: "modestus" ; Times: 1
+	Query: "Marmota" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "louisiana state university" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias" ; Times: 2
+	Query: "perognathus flavus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "mustela" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "Blarina county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Mammalia (weight) AND (NOT cricetidae NOT soricidae) institutioncode:CUMV" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "genus:tamias" ; Times: 2
+	Query: "specificepithet:amoenus genus:Tamias" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "chiroptera stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; AND (baja california sur)" ; Times: 1
+	Query: "Heterohyrax brucei Kenya" ; Times: 1
+	Query: "catron" ; Times: 1
+	Query: "genus:Peromyscus year &gt;= 2000 year &lt;= 2014" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "cetacea" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "hawk" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "bovidae" ; Times: 1
+	Query: "class:Mammalia (weight) AND (cricetidae) institutioncode:CUMV" ; Times: 1
+	Query: "cryptotis new york" ; Times: 5
+	Query: "specificepithet:striatus genus:Tamias" ; Times: 2
+	Query: "catalognumber:15169 institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:perotis genus:Eumops" ; Times: 2
+	Query: "saint vincent" ; Times: 1
+	Query: "specificepithet:Alpinus genus:Tamias" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Antrozous pallidus" ; Times: 1
+	Query: "Cryptotis alticola" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "genus:Lepus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "ondatra zibethicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 2
+	Query: "canis latrans" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 327 download events in this period)
+Total number of records downloaded: 5070
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-31 ; Times: 5
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Cryptotis alticola" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+
+
+End of report.
