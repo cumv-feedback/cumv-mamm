@@ -1,0 +1,302 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 287
+Number of records retrieved in searches: 4033
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 28
+	Country: Mexico ; Times: 19
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 10
+	Country: United States ; Times: 181
+	Country: Unknown ; Times: 11
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 23
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 3
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-13 ; Times: 8
+	Date: 2016-07-12 ; Times: 12
+	Date: 2016-07-15 ; Times: 14
+	Date: 2016-07-14 ; Times: 19
+	Date: 2016-07-16 ; Times: 14
+	Date: 2016-07-19 ; Times: 19
+	Date: 2016-07-18 ; Times: 34
+	Date: 2016-07-20 ; Times: 11
+	Date: 2016-07-21 ; Times: 6
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-25 ; Times: 10
+	Date: 2016-07-26 ; Times: 19
+	Date: 2016-07-27 ; Times: 12
+	Date: 2016-07-06 ; Times: 9
+	Date: 2016-07-07 ; Times: 5
+	Date: 2016-07-22 ; Times: 20
+	Date: 2016-07-05 ; Times: 3
+	Date: 2016-07-08 ; Times: 17
+	Date: 2016-07-09 ; Times: 5
+	Date: 2016-07-28 ; Times: 29
+	Date: 2016-07-29 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "myospalax" ; Times: 11
+	Query: "Aplodontia rufa humboldtiana catalognumber:7209" ; Times: 1
+	Query: "Ochotona princeps tissue:1" ; Times: 1
+	Query: "Nasua narica country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Dipodomys venustus" ; Times: 2
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "Citellus columbianus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "Sciurus carolinensis stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;maine&#34;" ; Times: 3
+	Query: "genus:eptesicus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Dipodomys simulans" ; Times: 2
+	Query: "family:Macroscelididae institutioncode:CUMV" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "dutchess" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Canis latrans" ; Times: 11
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "oryzomys" ; Times: 1
+	Query: "Natrix" ; Times: 1
+	Query: "genus:Ochotona basisofrecord:PreservedSpecimen haslifestage:1 hasmass:1 hassex:1 haslength:1" ; Times: 2
+	Query: "micromys minutus" ; Times: 3
+	Query: "CUMV 12927" ; Times: 2
+	Query: "class:Mammalia haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "dipodomys merriami" ; Times: 2
+	Query: "genus:Ochotona hasmass:1 haslength:1" ; Times: 1
+	Query: "media:1 tissue:1" ; Times: 1
+	Query: "genus:lasiurus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 4
+	Query: "Procyon lotor stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "&#34;Spermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "19 Sept 1952" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "sturnira mappable:1" ; Times: 2
+	Query: "genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:clethrionomys stateprovince:&#34;new hampshire&#34; institutioncode:CUMV" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "river dolphin" ; Times: 1
+	Query: "stateprovince:&#34;new york&#34; (myotis lucifugus)" ; Times: 1
+	Query: "22406" ; Times: 1
+	Query: "class:Mammalia county:&#34;Orangeburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "&#34;Spermophilus beecheyi&#34;" ; Times: 1
+	Query: "tursiops massachusetts" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Canis latrans country:&#34;United States&#34;" ; Times: 1
+	Query: "county:&#34;montour&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Scutisorex somereni" ; Times: 19
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "genus:clethrionomys stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "san luis obispo county" ; Times: 1
+	Query: "year &gt;= 2015 year &lt;= 2016" ; Times: 1
+	Query: "18611" ; Times: 1
+	Query: "class:Mammalia county:&#34;Marion&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "mappable:1 hasmedia:1" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 5
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "&#34;tamias minimus scrutator&#34;" ; Times: 1
+	Query: "mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "locality:letchworth State Park stateprovince:&#34;new york&#34; (myotis lucifugus)" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "mus musculus type:specimen institutioncode:CUMV" ; Times: 2
+	Query: "&#34;tamias amoenus amoenus&#34;" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1986 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "perognathus" ; Times: 1
+	Query: "Pallid bat type:specimen (Arizona )" ; Times: 1
+	Query: "Sylvilagus floridanus mallurus" ; Times: 1
+	Query: "onychomys" ; Times: 1
+	Query: "1894 new hampshire" ; Times: 1
+	Query: "sciurus anomalus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "weasel" ; Times: 1
+	Query: "Captive AND NOT Australia" ; Times: 1
+	Query: "type:specimen media:1" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 2
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "Spermophilus variegatus" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "gbifdatasetid:35720b3e-aded-4b83-b4f1-967f1d457d6a" ; Times: 3
+	Query: "perognathus flavus" ; Times: 2
+	Query: "year &gt;= 1888 year &lt;= 1888 month &gt;= 5 month &lt;= 5 institutioncode:CUMV" ; Times: 1
+	Query: "Didelphis virginiana stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1986 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;New York&#34; year &gt;= 1986 year &lt;= 2016" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; specificepithet:talpoides genus:thomomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "&#34;Cornell Lab of Ornithology&#34; type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 2
+	Query: "Peromyscus maniculatus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "zapus" ; Times: 1
+	Query: "tamias amoenus amoenus" ; Times: 1
+	Query: "martes" ; Times: 1
+	Query: "Herpestes ichneumon 1" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 5
+	Query: "class:Mammalia stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "massing &gt;= 20 massing &lt;= 70 lengthinmm &gt;= 10 lengthinmm &lt;= 100" ; Times: 1
+	Query: "primates type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Nyctereutes procyonoides 1" ; Times: 3
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "tadarida" ; Times: 1
+	Query: "Pallid bat type:specimen" ; Times: 1
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 2
+	Query: "Glaucomys volans saturatus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Pickens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "J. G. Morris" ; Times: 3
+	Query: "CUMV 4059" ; Times: 2
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "hasmedia:1" ; Times: 4
+	Query: "Ovis canadensis Arizona" ; Times: 1
+	Query: "Glaucomys volans volans" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 5
+	Query: "genus:Ochotona basisofrecord:PreservedSpecimen hasmass:1 haslength:1" ; Times: 1
+	Query: "myotis grisescens" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 2
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 3
+	Query: "Lynx rufus" ; Times: 3
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 3
+	Query: "Pallid bat type:specimen mappable:1" ; Times: 1
+	Query: "genus:Ochotona basisofrecord:PreservedSpecimen hassex:1 haslength:1" ; Times: 3
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "class:Mammalia county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Gorilla gorilla type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "Sciurus carolinensis stateprovince:&#34;New York&#34; year &gt;= 1986 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "lagomorpha type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 class:Mammalia" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 24
+	Query: "Sorex dispar" ; Times: 2
+	Query: "class:Mammalia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 3
+	Query: "Cyclopes didactylus didactylus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 172 (out of 1219 download events in this period)
+Total number of records downloaded: 77123
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 110
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 47
+	Country: Colombia ; Times: 1
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 11
+	Date: 2016-07-10 ; Times: 11
+	Date: 2016-07-13 ; Times: 12
+	Date: 2016-07-12 ; Times: 7
+	Date: 2016-07-15 ; Times: 3
+	Date: 2016-07-14 ; Times: 7
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-19 ; Times: 9
+	Date: 2016-07-18 ; Times: 9
+	Date: 2016-07-20 ; Times: 10
+	Date: 2016-07-07 ; Times: 9
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-25 ; Times: 6
+	Date: 2016-07-26 ; Times: 11
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 7
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 12
+	Date: 2016-07-28 ; Times: 10
+	Date: 2016-07-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "Ochotona princeps tissue:1" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "Dipodomys venustus" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "Citellus columbianus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "spalacidae" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "&#34;tamias alpinus&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; specificepithet:talpoides genus:thomomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Ochotona" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "macroscelididae type:specimen preparations:skull" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Notiosorex crawfordi type:specimen" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "locality:letchworth State Park stateprovince:&#34;new york&#34; (myotis lucifugus)" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "&#34;Spermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 2
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "mammalia" ; Times: 5
+
+
+End of report.
