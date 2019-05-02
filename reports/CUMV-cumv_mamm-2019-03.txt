@@ -1,0 +1,255 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 4963
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 165
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 13
+	Date: 2019-03-23 ; Times: 4
+	Date: 2019-03-08 ; Times: 24
+	Date: 2019-03-21 ; Times: 12
+	Date: 2019-03-20 ; Times: 8
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-06 ; Times: 11
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-22 ; Times: 8
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-30 ; Times: 6
+	Date: 2019-03-31 ; Times: 4
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-18 ; Times: 9
+	Date: 2019-03-19 ; Times: 15
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-28 ; Times: 12
+	Date: 2019-03-12 ; Times: 3
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-10 ; Times: 10
+	Date: 2019-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "&#34;peromyscus&#34; yosemite" ; Times: 3
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 3
+	Query: "Mus musculus vntype:specimen haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 5
+	Query: "Panthera onca" ; Times: 8
+	Query: "Peromyscus polionotus niveiventris genus:Peromyscus polionotus niveiventris" ; Times: 1
+	Query: "vntype:specimen genus:Dasypus" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:CUMV" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "dipodomys simulans" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "12308" ; Times: 1
+	Query: "genus:Tamiasciurus hasmass:1" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "mustelid" ; Times: 1
+	Query: "tamias" ; Times: 1
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "Blarina" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Makiling" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hasmass:1" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;new york&#34; year &gt;= 1975 massing &gt;= 0 hasmass:1" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Panthera uncia" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "Ursus Maritimus" ; Times: 1
+	Query: "franklinii" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 4
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "13871" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:tamiasciurus hasmass:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "genus:Didelphis hasmass:1" ; Times: 1
+	Query: "Cumv 7800" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:torridus genus:Onychomys class:mammalia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;peromyscus boylii&#34; yosemite" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "Hypsignathus" ; Times: 4
+	Query: "genus:urocyon stateprovince:&#34;new york&#34; year &gt;= 1975" ; Times: 1
+	Query: "genus:Ondatra" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "&#34;peromyscus Boylii&#34; yosemite" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "neovison vison" ; Times: 17
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 2
+	Query: "Nycticeius" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 2
+	Query: "Siskiyou specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 2
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "&#34;peromyscus californicus&#34; california santa clara" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus hasmass:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Neovison" ; Times: 4
+	Query: "mammal jaw bones" ; Times: 1
+	Query: "institutioncode:CUMV distance(location,geopoint(42.41217397547421,-85.0927734375))&lt;123413.84516392593" ; Times: 2
+	Query: "genus:Nycticeius" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; institutioncode:CUMV" ; Times: 2
+	Query: "specificepithet:tricinctus genus:Tolypeutes" ; Times: 3
+	Query: "specificepithet:zibethicus genus:Ondatra" ; Times: 2
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 7
+	Query: "diaemus youngi" ; Times: 2
+	Query: "Eumetopias jubatus" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Cumv 3464" ; Times: 1
+	Query: "specificepithet:tricinctus genus:Tolypeutes hastissue:1" ; Times: 1
+	Query: "specificepithet:pichiy genus:Zaedyus" ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1930 year &lt;= 1950" ; Times: 1
+	Query: "Tupaia glis hasmass:1" ; Times: 3
+	Query: "Leopardus pardalis hasmass:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1281 download events in this period)
+Total number of records downloaded: 4068
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 51
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-22 ; Times: 7
+	Date: 2019-03-21 ; Times: 6
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 4
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;new york&#34; year &gt;= 1975" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "genus:Ictonyx" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "class:Mammalia county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Knox&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "Makiling" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "promops" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tricinctus genus:Tolypeutes" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Melonycteris melanops" ; Times: 1
+	Query: "Pteropus ornatus" ; Times: 1
+	Query: "Hypsignathus" ; Times: 1
+	Query: "specificepithet:tricinctus genus:Tolypeutes hastissue:1" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
