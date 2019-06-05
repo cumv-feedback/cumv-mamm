@@ -1,0 +1,239 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 209
+Number of records retrieved in searches: 1697
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 169
+	Country: Peru ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Chile ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-09 ; Times: 18
+	Date: 2019-05-08 ; Times: 14
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-06 ; Times: 16
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-03 ; Times: 16
+	Date: 2019-05-02 ; Times: 6
+	Date: 2019-05-01 ; Times: 24
+	Date: 2019-05-25 ; Times: 9
+	Date: 2019-05-24 ; Times: 8
+	Date: 2019-05-27 ; Times: 6
+	Date: 2019-05-26 ; Times: 4
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 8
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 8
+	Date: 2019-05-28 ; Times: 14
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-13 ; Times: 17
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 14
+	Date: 2019-05-16 ; Times: 3
+	Date: 2019-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "EAR 5173" ; Times: 2
+	Query: "EAR 5170" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 7
+	Query: "glaucomys volans" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus hastissue:1" ; Times: 2
+	Query: "sorex hoyi" ; Times: 3
+	Query: "catalognumber:11882 institutioncode:CUMV" ; Times: 1
+	Query: "sciurus carolinensis CUMV New York hastissue" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "sciurus carolinensis CUMV" ; Times: 1
+	Query: "Scapanus latimanus" ; Times: 1
+	Query: "camel" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "20 PERU" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:latrans" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "lama guanicoe" ; Times: 5
+	Query: "Dugan" ; Times: 1
+	Query: "muskeget island class:mammalia stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;Microtus&#34;)" ; Times: 1
+	Query: "10408 Peromyscus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "Neomys fodiens" ; Times: 2
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "CUMV Mamm 7809" ; Times: 1
+	Query: "peromyscus vntype:specimen (skin whole) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "genus:Mustela haslength:1" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina year &gt;= 1986 hastissue:1" ; Times: 1
+	Query: "order:soricomorpha county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "17 PERU" ; Times: 1
+	Query: "Microtus agrestis" ; Times: 1
+	Query: "7 PERU" ; Times: 1
+	Query: "Geomyidae genus:Thomomys family:Geomyidae stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America" ; Times: 2
+	Query: "sorex cinereus" ; Times: 2
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "Sorex humboldt county California" ; Times: 1
+	Query: "EAR 5147" ; Times: 3
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Wisconsin&#34; year &lt;= 1960" ; Times: 1
+	Query: "genus:Tamias county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Sylvilagus floridanus west virginia" ; Times: 1
+	Query: "22 PERU" ; Times: 1
+	Query: "order:Carnivora county:&#34;suffolk&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 4
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "class:Mammalia pallid bat" ; Times: 1
+	Query: "Dipodomys californicus" ; Times: 2
+	Query: "CUMV Mamm 2753" ; Times: 1
+	Query: "eumetopias" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+	Query: "18 PERU" ; Times: 1
+	Query: "genus:mus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus institutioncode:CUMV hastissue:1" ; Times: 1
+	Query: "CUMV Mamm 5025" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "sciurus anomalus" ; Times: 3
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "gbifdatasetid:35720b3e-aded-4b83-b4f1-967f1d457d6a" ; Times: 3
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34;" ; Times: 1
+	Query: "CUMV Mamm 3901" ; Times: 1
+	Query: "nantucket island order:soricomorpha stateprovince:&#34;massachusetts&#34;" ; Times: 1
+	Query: "Nantucket island class:mammalia stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;Microtus&#34;)" ; Times: 1
+	Query: "specificepithet:coypus continent:america" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Illinois&#34; year &gt;= 2000" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "sciurus carolinensis CUMV New York" ; Times: 1
+	Query: "6 PERU" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "CUMV 5148" ; Times: 1
+	Query: "EAR 5182" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;United states&#34; hastissue:1" ; Times: 3
+	Query: "order:Carnivora county:&#34;queens&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex" ; Times: 1
+	Query: "CUMV Mamm 3538" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Illinois&#34; hastissue:1" ; Times: 1
+	Query: "genus:myocastor" ; Times: 2
+	Query: "genus:sciurus county:&#34;santa clara&#34;" ; Times: 1
+	Query: "Geomyidae genus:Thomomys family:Geomyidae country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Microtus arvalis" ; Times: 1
+	Query: "alascensis specificepithet:vulpes genus:Vulpes year &gt;= 1840 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona hastissue:1" ; Times: 2
+	Query: "specificepithet:brevicauda genus:blarina year &gt;= 2007 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus hastissue:1" ; Times: 4
+	Query: "(bison)" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hastissue:1" ; Times: 7
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 21
+	Query: "sciurus griseus" ; Times: 1
+	Query: "Acomys cahirinus" ; Times: 2
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 2
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "EAR 5169" ; Times: 1
+	Query: "specificepithet:griseus genus:sciurus county:&#34;santa clara&#34;" ; Times: 1
+	Query: "genital" ; Times: 1
+	Query: "ursus americanus" ; Times: 6
+	Query: "order:Carnivora county:&#34;nassau&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor" ; Times: 1
+	Query: "genus:loris preparations:skeleton" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "canis lupus familiaris" ; Times: 2
+	Query: "diphylla" ; Times: 2
+	Query: "Cyclopes didactylus mappable:1" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;carbon&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 940 download events in this period)
+Total number of records downloaded: 1097
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-06 ; Times: 8
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "diphylla" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+
+End of report.
