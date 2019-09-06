@@ -1,0 +1,497 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 581
+Number of records retrieved in searches: 4373
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 3
+	Country: United States ; Times: 313
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 41
+	Country: Guatemala ; Times: 5
+	Country: China ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Thailand ; Times: 180
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 20
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-29 ; Times: 14
+	Date: 2019-08-01 ; Times: 10
+	Date: 2019-08-02 ; Times: 5
+	Date: 2019-08-03 ; Times: 15
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 51
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-07 ; Times: 28
+	Date: 2019-08-08 ; Times: 14
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-24 ; Times: 8
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 33
+	Date: 2019-08-23 ; Times: 5
+	Date: 2019-08-20 ; Times: 26
+	Date: 2019-08-21 ; Times: 166
+	Date: 2019-08-17 ; Times: 3
+	Date: 2019-08-16 ; Times: 5
+	Date: 2019-08-15 ; Times: 30
+	Date: 2019-08-14 ; Times: 25
+	Date: 2019-08-13 ; Times: 16
+	Date: 2019-08-12 ; Times: 10
+	Date: 2019-08-31 ; Times: 15
+	Date: 2019-08-30 ; Times: 49
+	Date: 2019-08-19 ; Times: 7
+	Date: 2019-08-18 ; Times: 3
+	Date: 2019-08-26 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 2
+	Query: "genus:onychomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "neotoma stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1 haslength:1" ; Times: 1
+	Query: "Eumops perotis haslength:1" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 2
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Scotophilus borbonicus haslength:1" ; Times: 2
+	Query: "CUMV 12675" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "gossypinus stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1 haslength:1" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 6
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "glaucomys volans vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lutescens genus:geomys" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 2
+	Query: "family:cricetidae order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Peropteryx macrotis haslength:1" ; Times: 2
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "myotis volans" ; Times: 3
+	Query: "Thyroptera tricolor haslength:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Pipistrellus kuhlii haslength:1" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "Miniopterus inflatus haslength:1" ; Times: 2
+	Query: "peromyscus gossypinus stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:peromyscus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Myotis sodalis haslength:1" ; Times: 2
+	Query: "Myotis vivesi haslength:1" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Nycteris thebaica haslength:1" ; Times: 2
+	Query: "specificepithet:volans genus:Myotis stateprovince:&#34;Colorado&#34; haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:microtus" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Plymouth&#34; stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 2
+	Query: "Ptenochirus jagori haslength:1" ; Times: 2
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Myotis horsfieldii" ; Times: 1
+	Query: "genus:nyctomys stateprovince:&#34;chiapas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Macrotus waterhousii haslength:1" ; Times: 2
+	Query: "genus:Lasiurus family:Vespertilionidae country:&#34;Cuba&#34;" ; Times: 1
+	Query: "Rousettus amplexicaudatus haslength:1" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Epomophorus wahlbergi haslength:1" ; Times: 2
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Rousettus aegyptiacus haslength:1" ; Times: 2
+	Query: "Rhogeessa parvula haslength:1" ; Times: 2
+	Query: "Procyon" ; Times: 1
+	Query: "Carollia brevicauda haslength:1" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 2
+	Query: "Molossus molossus haslength:1" ; Times: 2
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 2
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Triaenops persicus haslength:1" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "genus:microtus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Myotis muricola" ; Times: 1
+	Query: "Mormoops megalophylla haslength:1" ; Times: 2
+	Query: "Myotis levis" ; Times: 3
+	Query: "genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Nycteris hispida haslength:1" ; Times: 2
+	Query: "CUMV 13367" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Rhinolophus ferrumequinum haslength:1" ; Times: 2
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "family:heteromyidae order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Tadarida aegyptiaca haslength:1" ; Times: 2
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 2
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1 haslength:1" ; Times: 1
+	Query: "Emballonura alecto haslength:1" ; Times: 2
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Ovis nivicola" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hasmass:1 haslength:1" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 2
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Rhinolophus euryale haslength:1" ; Times: 2
+	Query: "Nycticeius humeralis haslength:1" ; Times: 2
+	Query: "Spermophilus washingtoni" ; Times: 3
+	Query: "Zapus hudsonius" ; Times: 27
+	Query: "Centronycteris maximiliani haslength:1" ; Times: 2
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Centurio senex haslength:1" ; Times: 2
+	Query: "specificepithet:nigricans genus:myotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Thyroptera AND (NOT albiventer) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "irroratus" ; Times: 3
+	Query: "specificepithet:subflavus (JNL )" ; Times: 1
+	Query: "Tick Island" ; Times: 1
+	Query: "Eptesicus fuscus haslength:1" ; Times: 2
+	Query: "Mimetillus moloneyi haslength:1" ; Times: 2
+	Query: "Phyllostomus hastatus haslength:1" ; Times: 1
+	Query: "Philetor brachypterus haslength:1" ; Times: 2
+	Query: "Daubentonia" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Scotophilus leucogaster haslength:1" ; Times: 2
+	Query: "Philander opossum" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "Myotis levis haslength:1" ; Times: 1
+	Query: "peromyscus gossypinus stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1" ; Times: 2
+	Query: "Anoura geoffroyi haslength:1" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "recordnumber:244" ; Times: 1
+	Query: "peromyscus stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1" ; Times: 1
+	Query: "Coleura afra haslength:1" ; Times: 2
+	Query: "genus:perognathus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 7
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "Tadarida teniotis" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "genus:Panthera hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "H.A. Ward" ; Times: 2
+	Query: "Myotis keenii" ; Times: 1
+	Query: "tamias striatus vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "5581" ; Times: 2
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "specificepithet:sanborni genus:Leptonycteris" ; Times: 2
+	Query: "order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Eumops bonariensis haslength:1" ; Times: 2
+	Query: "genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Hipposideros diadema haslength:1" ; Times: 2
+	Query: "Tadarida teniotis haslength:1" ; Times: 2
+	Query: "Carollia brevicauda" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "Callithrix kuhlii" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Franklin&#34; stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:parvula genus:Rhogeessa year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:Mephitis genus:mephitis hasmass:1 haslength:1" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "locality:Ithaca year &gt;= 1975 year &lt;= 1995 institutioncode:CUMV basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinolophus deckenii haslength:1" ; Times: 2
+	Query: "Myotis velifer haslength:1" ; Times: 2
+	Query: "Trachops cirrhosus haslength:1" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 9
+	Query: "orthogeomys grandis guatemala" ; Times: 3
+	Query: "Platyrrhinus helleri haslength:1" ; Times: 1
+	Query: "Rhinolophus fumigatus haslength:1" ; Times: 2
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "Glossophaga leachii haslength:1" ; Times: 1
+	Query: "Sturnira lilium haslength:1" ; Times: 2
+	Query: "Balantiopteryx plicata haslength:1" ; Times: 2
+	Query: "order:cingulata preparations:skeleton" ; Times: 23
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "neotoma stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1" ; Times: 1
+	Query: "specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "lepus americanus" ; Times: 2
+	Query: "Myotis leibii haslength:1" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Artibeus lituratus haslength:1" ; Times: 2
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 month &gt;= 7 month &lt;= 9 haslength:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "Corynorhinus rafinesquii haslength:1" ; Times: 2
+	Query: "Scotoecus hirundo haslength:1" ; Times: 2
+	Query: "Lasiurus seminolus haslength:1" ; Times: 2
+	Query: "Cynopterus brachyotis haslength:1" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 2
+	Query: "genus:reithrodontomys class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Miniopterus schreibersii haslength:1" ; Times: 2
+	Query: "class:Mammalia country:&#34;Kazakhstan&#34;" ; Times: 1
+	Query: "specificepithet:jubatus genus:Eumetopias" ; Times: 1
+	Query: "Pteronotus parnellii haslength:1" ; Times: 2
+	Query: "Cardioderma cor haslength:1" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 2
+	Query: "Pteronotus personatus haslength:1" ; Times: 1
+	Query: "Humboldtiana" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Micronycteris megalotis haslength:1" ; Times: 2
+	Query: "family:Vespertilionidae country:&#34;Cuba&#34;" ; Times: 3
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 haslength:1" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 6
+	Query: "Pteropus ornatus haslength:1" ; Times: 2
+	Query: "Neotoma macrotis" ; Times: 6
+	Query: "akodon molinae" ; Times: 1
+	Query: "mormoopidae" ; Times: 1
+	Query: "genus:sciurus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "family:geomyidae order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 3
+	Query: "Lonchorhina aurita haslength:1" ; Times: 2
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "peromyscus stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 2019 hasmass:1 haslength:1" ; Times: 2
+	Query: "Myotis evotis haslength:1" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis hasmass:1 haslength:1" ; Times: 1
+	Query: "Diaemus youngi haslength:1" ; Times: 2
+	Query: "specificepithet:MINIMUS genus:CHIRONECTES country:&#34;México&#34;" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Myotis muricola haslength:1" ; Times: 2
+	Query: "panthera uncia" ; Times: 1
+	Query: "Glossophaga soricina haslength:1" ; Times: 2
+	Query: "Lepus americanus" ; Times: 3
+	Query: "genus:Ursus hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:spermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "H.A. Ward (ward)" ; Times: 6
+	Query: "Pteronotus davyi haslength:1" ; Times: 2
+	Query: "Lasiurus ega haslength:1" ; Times: 2
+	Query: "order:pilosa preparations:skeleton institutioncode:CUMV" ; Times: 1
+	Query: "Promops centralis haslength:1" ; Times: 2
+	Query: "Myotis austroriparius haslength:1" ; Times: 2
+	Query: "specificepithet:americanus genus:Ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Lasiurus intermedius haslength:1" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "Tadarida brasiliensis haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:thomomys class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Myotis keenii haslength:1" ; Times: 2
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "ochotona princeps" ; Times: 8
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sanborni genus:leptonycteris preparations:skull" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Epomophorus labiatus haslength:1" ; Times: 2
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Berkshire&#34; stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "genus:Napaeozapus stateprovince:&#34;Massachusetts&#34;" ; Times: 6
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "Hipposideros commersoni haslength:1" ; Times: 2
+	Query: "Myotis fortidens haslength:1" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "Noctilio leporinus haslength:1" ; Times: 2
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Hipposideros caffer haslength:1" ; Times: 2
+	Query: "Uroderma bilobatum haslength:1" ; Times: 2
+	Query: "Liomys irroratus" ; Times: 8
+	Query: "Myotis septentrionalis" ; Times: 11
+	Query: "diaemus youngi" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 3
+	Query: "Rhinolophus landeri haslength:1" ; Times: 2
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "Chiroderma villosum haslength:1" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Scotophilus nigrita haslength:1" ; Times: 2
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Phyllostomus discolor haslength:1" ; Times: 1
+	Query: "Myotis myotis" ; Times: 1
+	Query: "Myotis nigricans haslength:1" ; Times: 2
+	Query: "geomys bursarius wisconsin" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:nyctomys country:&#34;mexico&#34;" ; Times: 1
+	Query: "order:cingulata preparations:skeleton institutioncode:CUMV" ; Times: 1
+	Query: "3541" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "stenella longirostris country:&#34;United States&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "heteromys" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Rhynchonycteris naso haslength:1" ; Times: 2
+	Query: "Myotis horsfieldii haslength:1" ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 16
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "genus:thomomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Sorex trowbridgii" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Myotis grisescens haslength:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 1034 download events in this period)
+Total number of records downloaded: 11320
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Brazil ; Times: 4
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-29 ; Times: 10
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-24 ; Times: 3
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-23 ; Times: 6
+	Date: 2019-08-20 ; Times: 10
+	Date: 2019-08-21 ; Times: 4
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cirrhosus genus:Trachops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:naso genus:Rhynchonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "(kingdom:animalia) (hasmass:1) (haslifestage:1) (vntype:specimen)" ; Times: 2
+	Query: "lonchorhina aurita" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Potos" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:parvula genus:Rhogeessa year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Thyroptera AND (NOT albiventer) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:Choeronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Eumops AND (NOT beckeri) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "Rhinolophus fumigatus" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "diaemus youngi" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 7
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "miniopterus inflatus" ; Times: 1
+	Query: "centurio senex" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "artibeus toltecus" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "puma concolor" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "chiroderma villosum" ; Times: 1
+	Query: "Daubentonia" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:myotis genus:myotis preparations:skull" ; Times: 1
+	Query: "mammal" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Procyon" ; Times: 1
+
+
+End of report.
