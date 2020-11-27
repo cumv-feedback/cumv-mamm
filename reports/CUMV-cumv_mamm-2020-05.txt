@@ -1,0 +1,256 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 1427
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Ireland ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 149
+	Country: Guatemala ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 7
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 13
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-20 ; Times: 3
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 9
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 18
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 3
+	Date: 2020-05-13 ; Times: 18
+	Date: 2020-05-14 ; Times: 26
+	Date: 2020-05-15 ; Times: 7
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-30 ; Times: 10
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 18
+	Date: 2020-05-07 ; Times: 13
+	Date: 2020-05-06 ; Times: 8
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 7
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:miurus genus:Microtus" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "3611" ; Times: 1
+	Query: "anoura caudifera vntype:specimen" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "genus:chaetodipus county:&#34;Alameda&#34;" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Chica)" ; Times: 4
+	Query: "genus:Gulo" ; Times: 1
+	Query: "&#34;peromyscus sonoriensis&#34;" ; Times: 1
+	Query: "sturnira lilium" ; Times: 2
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 4
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:CUMV basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "San Bernardino peromyscus" ; Times: 1
+	Query: "family:Soricidae country:&#34;Egypt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "&#34;Peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT mcz) basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "chaetodipus intermedius" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "gulo gulo" ; Times: 1
+	Query: "&#34;Peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "centronycteris maximiliani" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "lasiurus" ; Times: 1
+	Query: "Gulo" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:alpinus" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 5
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (CUMV) AND (NOT Boca )" ; Times: 1
+	Query: "Scutisorex somereni" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:alpinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 7
+	Query: "1237" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "urocyon female" ; Times: 1
+	Query: "&#34;Ochotona princeps&#34;" ; Times: 2
+	Query: "genus:Peromyscus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "bovidae" ; Times: 4
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT MSB) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Cricetidae hastissue:1" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 2
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "orthogeomys grandis guatemala" ; Times: 3
+	Query: "&#34;mephitis mephitis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca OR Boco)" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "dipodomys venustus sanctiluciae" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 2
+	Query: "Spermophilus variegatus" ; Times: 1
+	Query: "&#34;ochotona princeps&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:&#34;Brownsville&#34; county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "cryptotis parva" ; Times: 3
+	Query: "dipodomys venustus" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (cumv) AND (NOT Chica)" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (cumv)" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 12
+	Query: "Peromyscus maniculatus pallescens stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 5
+	Query: "genus:Martes" ; Times: 4
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 11
+	Query: "Napaeozapus insignis" ; Times: 2
+	Query: "48626" ; Times: 1
+	Query: "CUMV 9885" ; Times: 1
+	Query: "Sigmodon hispidus berlandieri stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:californicus genus:chaetodipus" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca )" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Massachusetts&#34; (&#34;Zapus hudsonius&#34;) institutioncode:CUMV basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crocidura" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "&#34;Peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;mcz, msb, usnm&#34;) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:Sorex county:&#34;Alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lontra" ; Times: 2
+	Query: "procyon lotor" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus leucopus texanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:perotis genus:eumops haslength:1" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "dipodomys venustus venustus" ; Times: 1
+	Query: "&#34;ochotona princeps&#34; vntype:specimen stateprovince:&#34;Washington&#34; lengthtype:total length haslength:1" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1106 download events in this period)
+Total number of records downloaded: 4585
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 46
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 17
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-13 ; Times: 5
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 6
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;tabasco&#34;" ; Times: 2
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Scutisorex somereni" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "specificepithet:alpinus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:Soricidae country:&#34;Egypt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Centronycteris maximiliani" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "dipodomys venustus sanctiluciae" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
