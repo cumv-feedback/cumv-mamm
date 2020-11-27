@@ -1,0 +1,475 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 682
+Number of records retrieved in searches: 5533
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 272
+	Country: Honduras ; Times: 3
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 9
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 3
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 338
+	Country: Austria ; Times: 13
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 17
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 162
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-22 ; Times: 17
+	Date: 2020-04-23 ; Times: 21
+	Date: 2020-04-20 ; Times: 12
+	Date: 2020-04-07 ; Times: 143
+	Date: 2020-04-26 ; Times: 10
+	Date: 2020-04-01 ; Times: 22
+	Date: 2020-04-24 ; Times: 7
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-28 ; Times: 24
+	Date: 2020-04-29 ; Times: 15
+	Date: 2020-04-08 ; Times: 30
+	Date: 2020-04-09 ; Times: 10
+	Date: 2020-04-27 ; Times: 21
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-03 ; Times: 47
+	Date: 2020-04-19 ; Times: 14
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-12 ; Times: 27
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-17 ; Times: 21
+	Date: 2020-04-16 ; Times: 15
+	Date: 2020-04-15 ; Times: 11
+	Date: 2020-04-14 ; Times: 9
+	Date: 2020-04-30 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Epomophorus wahlbergi" ; Times: 4
+	Query: "Ovis aries" ; Times: 10
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "Apodemus mystacinus" ; Times: 4
+	Query: "Rutilus rutilus" ; Times: 19
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:gunnisoni genus:Cynomys haslength:1" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus hasmass:1 haslength:1" ; Times: 1
+	Query: "Sorex palustris" ; Times: 3
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 2
+	Query: "catalognumber:12483 institutioncode:CUMV" ; Times: 2
+	Query: "vntype:specimen genus:Peromyscus stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 3
+	Query: "napaeozapus vntype:specimen stateprovince:&#34;connecticut&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Canadensis genus:Castor" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "camel" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "rattus norvegicus" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 4
+	Query: "specificepithet:Carolinensis genus:Sciurus country:&#34;United States&#34; continent:North America sex:male institutioncode:CUMV lengthtype:total length haslength:1" ; Times: 1
+	Query: "Chaerephon pumila" ; Times: 4
+	Query: "Axis axis" ; Times: 2
+	Query: "Microdipodops megacephalus mappable:1" ; Times: 8
+	Query: "lasiurus borealis lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "lynx rufus mexico" ; Times: 1
+	Query: "malaysia mammal" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "Panthera onca" ; Times: 4
+	Query: "Rousettus leschenaulti" ; Times: 4
+	Query: "specificepithet:leucurus genus:Cynomys haslength:1" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 4
+	Query: "Glaucomys sabrinus" ; Times: 2
+	Query: "Bison" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "martes america" ; Times: 1
+	Query: "sciurus skull" ; Times: 1
+	Query: "Alouatta caraya" ; Times: 3
+	Query: "genus:desmodus specificepithet:rotundus" ; Times: 2
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "genus:Erethizon hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:napaeozapus stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:orarius genus:scapanus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;United States&#34; continent:North America sex:Female hassex:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:nivalis genus:Mustela class:Mammalia" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Microtus agrestis" ; Times: 2
+	Query: "genus:Blarina hastissue:1" ; Times: 2
+	Query: "Peromyscus Leucopus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Mandrillus leucophaeus" ; Times: 4
+	Query: "Mazama americana" ; Times: 3
+	Query: "phoca vitulina" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Felis silvestris" ; Times: 5
+	Query: "lasiurus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus country:&#34;United States&#34; haslength:1" ; Times: 1
+	Query: "Sorex palustris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 2
+	Query: "skunk skull" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 4
+	Query: "Ovis ammon" ; Times: 6
+	Query: "genus:Artibeus specificepithet:lituratus" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "Sciurus variegatoides" ; Times: 3
+	Query: "skulls" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus haslength:1" ; Times: 5
+	Query: "(10009)" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 3
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 5
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chironax melanocephalus" ; Times: 4
+	Query: "specificepithet:striatus genus:ictonyx haslength:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 9
+	Query: "gulo gulo" ; Times: 3
+	Query: "(18677)" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "Neomys fodiens" ; Times: 2
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 4
+	Query: "Ovis dalli" ; Times: 4
+	Query: "genus:Sturnira specificepithet:lilium" ; Times: 2
+	Query: "Madoqua kirkii" ; Times: 4
+	Query: "Mus musculus" ; Times: 7
+	Query: "Lagenorhynchus obliquidens" ; Times: 3
+	Query: "Sorex palustris vntype:specimen" ; Times: 3
+	Query: "EAR 10910" ; Times: 2
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Myodes glareolus" ; Times: 2
+	Query: "18103" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus stateprovince:&#34;New York&#34; year &gt;= 2000 year &lt;= 2019 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Carollia" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "mammal skulls" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 6
+	Query: "napaeozapus vntype:specimen stateprovince:&#34;massachusetts&#34;" ; Times: 4
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 4
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Papio hamadryas" ; Times: 4
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 2
+	Query: "Carollia brevicauda" ; Times: 3
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "specificepithet:lituratus genus:Artibeus" ; Times: 1
+	Query: "Callithrix kuhlii" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Cynomys haslength:1" ; Times: 1
+	Query: "12876" ; Times: 1
+	Query: "vntype:specimen specificepithet:princeps genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:leucurus genus:Ammospermophilus haslength:1" ; Times: 5
+	Query: "Manis tetradactyla" ; Times: 4
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:gulo genus:Gulo" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "class:mammalia county:&#34;Burke&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 37
+	Query: "specificepithet:ingens genus:dipodomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "genus:tamias stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Ovis orientalis" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:auritus genus:Hemiechinus haslength:1" ; Times: 1
+	Query: "Mustela erminea" ; Times: 4
+	Query: "Bison bison" ; Times: 1
+	Query: "Apodemus sylvaticus" ; Times: 6
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "Manis javanica" ; Times: 3
+	Query: "Spermophilus tridecemlineatus" ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "Sciurus niger" ; Times: 4
+	Query: "Megaloglossus woermanni" ; Times: 4
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "napaeozapus vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:CUMV" ; Times: 1
+	Query: "genus:Myotis specificepithet:nigricans" ; Times: 1
+	Query: "specificepithet:afer genus:Orycteropus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Mephitis" ; Times: 1
+	Query: "Miniopterus inflatus" ; Times: 4
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Erethizon haslength:1" ; Times: 1
+	Query: "(18647)" ; Times: 2
+	Query: "ochrogaster" ; Times: 2
+	Query: "specificepithet:virginianus genus:odocoileus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:polionotus stateprovince:&#34;florida&#34; (niveiventris)" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "Papio anubis" ; Times: 4
+	Query: "country:&#34;mexico&#34; recordedby:carpenter" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen genus:napaeozapus stateprovince:&#34;massachusetts&#34; institutioncode:CUMV basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 7
+	Query: "devil" ; Times: 1
+	Query: "lynx rufus México" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 3
+	Query: "specificepithet:Carolinensis genus:Sciurus country:&#34;United States&#34; continent:North America sex:male lengthtype:total length haslength:1" ; Times: 4
+	Query: "Lama guanicoe" ; Times: 14
+	Query: "O. virginianus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1 haslength:1" ; Times: 1
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "Phodopus sungorus" ; Times: 4
+	Query: "specificepithet:virginianus genus:Odocoileus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "tamandua mexicana" ; Times: 2
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Tamias striatus" ; Times: 6
+	Query: "specificepithet:monax genus:Marmota hastissue:1" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela haslength:1" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1" ; Times: 2
+	Query: "Artibeus lituratus" ; Times: 4
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 2
+	Query: "Sciurus deppei" ; Times: 3
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "​Lama guanicoe" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 5
+	Query: "Homo sapiens" ; Times: 12
+	Query: "Sciurus aberti" ; Times: 3
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "5290" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "5215" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "Crocidura grayi" ; Times: 4
+	Query: "specificepithet:striatus genus:tamias haslength:1" ; Times: 1
+	Query: "genus:Peromyscus hassex:1 hasmass:1" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela haslength:1" ; Times: 2
+	Query: "specificepithet:taxus genus:taxidea haslength:1" ; Times: 1
+	Query: "Panthera Onca Skull" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "V. vulpes" ; Times: 5
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus year &gt;= 1800 year &lt;= 1900 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 2
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "specificepithet:niger genus:sciurus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 5
+	Query: "specificepithet:canadensis genus:lontra haslength:1" ; Times: 2
+	Query: "Desmodus rotundus" ; Times: 4
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 3
+	Query: "specificepithet:norvegicus genus:Rattus family:Muridae" ; Times: 2
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 6
+	Query: "specificepithet:coypus genus:Myocastor hasmass:1" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 2
+	Query: "Otomys tropicalis" ; Times: 4
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "pardus" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus family:Muridae country:&#34;United States&#34; haslength:1" ; Times: 3
+	Query: "Sorex palustris hasmass:1 haslength:1" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "specificepithet:harrisii genus:Ammospermophilus hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "Lutra lutra" ; Times: 9
+	Query: "specificepithet:nivalis genus:Mustela class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:ater genus:molossus stateprovince:&#34;chiapas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:myotis specificepithet:nigricans" ; Times: 2
+	Query: "Tick Island" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "specificepithet:townsendii genus:scapanus" ; Times: 2
+	Query: "Eulipotyphla year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen (frog) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Synaptomys borealis sphagnicola" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "(frog) haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 1171 download events in this period)
+Total number of records downloaded: 4341
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 81
+	Country: Austria ; Times: 4
+	Country: Argentina ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 6
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 12
+	Date: 2020-04-23 ; Times: 14
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 4
+	Date: 2020-04-26 ; Times: 6
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-28 ; Times: 23
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 6
+	Date: 2020-04-16 ; Times: 6
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "genus:Erethizon hasmass:1" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela haslength:1" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Myotis specificepithet:nigricans" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "class:Mammalia county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "specificepithet:taxus genus:taxidea haslength:1" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra haslength:1" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 12
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Orycteropodidae" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "diclidurus" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:princeps genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "class:mammalia county:&#34;Burke&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:auritus genus:Hemiechinus haslength:1" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Lagidium" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "genus:Erethizon haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "vntype:specimen genus:Paraxerus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Thryonomyidae" ; Times: 1
+	Query: "genus:Molossus specificepithet:rufus" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela haslength:1" ; Times: 1
+	Query: "genus:Noctilio specificepithet:albiventris" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Synaptomys borealis sphagnicola" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
