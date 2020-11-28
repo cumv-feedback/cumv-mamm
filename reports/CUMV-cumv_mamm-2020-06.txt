@@ -1,0 +1,156 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 192
+Number of records retrieved in searches: 1105
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: United States ; Times: 98
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: United Kingdom ; Times: 38
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-20 ; Times: 2
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-08 ; Times: 24
+	Date: 2020-06-09 ; Times: 5
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 9
+	Date: 2020-06-04 ; Times: 11
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 7
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 42
+	Date: 2020-06-15 ; Times: 5
+	Date: 2020-06-28 ; Times: 2
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-10 ; Times: 17
+	Date: 2020-06-11 ; Times: 25
+	Date: 2020-06-12 ; Times: 9
+	Date: 2020-06-17 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "hypsignathus" ; Times: 1
+	Query: "Rutilus rutilus" ; Times: 9
+	Query: "catalognumber:20269 institutioncode:CUMV" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "catalognumber:7836 institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:19611 collectioncode:Mamm" ; Times: 3
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 2
+	Query: "stateprovince:&#34;Massachusetts&#34; (neovison vison)" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "DZ" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Microtus mexicanus" ; Times: 2
+	Query: "(erminea)" ; Times: 1
+	Query: "umiat microtus" ; Times: 2
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "umiat" ; Times: 4
+	Query: "genus:sylvilagus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin)" ; Times: 1
+	Query: "mustela" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myotis leibii" ; Times: 2
+	Query: "Cynomys gunnisoni" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "(neovison vison)" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 14
+	Query: "Sus scrofa" ; Times: 6
+	Query: "stateprovince:&#34;Maine&#34; (Ondatra zibethicus)" ; Times: 6
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reithrodontomys montanus" ; Times: 2
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "catalognumber:3257 institutioncode:CUMV" ; Times: 2
+	Query: "specificepithet:floridanus genus:sylvilagus" ; Times: 3
+	Query: "neovison vison" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; (Ondatra zibethicus) institutioncode:CUMV" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 2
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 11
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "genus:peromyscus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 2
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "umiat microtus oeconomus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "catalognumber:6037 institutioncode:CUMV" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 474 download events in this period)
+Total number of records downloaded: 2554
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Brazil ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 8
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 3
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 4
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "umiat microtus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "umiat microtus oeconomus" ; Times: 1
+
+
+End of report.
