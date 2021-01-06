@@ -1,0 +1,331 @@
+Report for Institution Code CUMV, Resource cumv_mamm
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 425
+Number of records retrieved in searches: 23711
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Iran ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: Turkey ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 321
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 33
+	Country: Chile ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Bolivia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 13
+	Date: 2020-12-31 ; Times: 7
+	Date: 2020-12-09 ; Times: 101
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-06 ; Times: 6
+	Date: 2020-12-05 ; Times: 5
+	Date: 2020-12-04 ; Times: 55
+	Date: 2020-12-03 ; Times: 15
+	Date: 2020-12-02 ; Times: 105
+	Date: 2020-12-01 ; Times: 16
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 8
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 4
+	Date: 2020-12-18 ; Times: 3
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-10 ; Times: 5
+	Date: 2020-12-11 ; Times: 5
+	Date: 2020-12-12 ; Times: 5
+	Date: 2020-12-13 ; Times: 14
+	Date: 2020-12-14 ; Times: 38
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "(sciurus niger)" ; Times: 1
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "scientificname:Ursus americanus stateprovince:new york" ; Times: 2
+	Query: "Pipistrellus pipistrellus" ; Times: 1
+	Query: "scientificname:Lasiurus cinereus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina AND (male) year &gt;= 1960 year &lt;= 2020 hasmass:1 haslength:1" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "specificepithet:guanicoe genus:Lama" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "scientificname:Martes americana stateprovince:new york" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "scientificname:Castor canadensis stateprovince:new york" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Martes pennanti stateprovince:new york" ; Times: 2
+	Query: "genus:baiomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "scientificname:Rattus norvegicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina AND (female) hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34; AND (male) year &gt;= 1800 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "scientificname:Glaucomys sabrinus stateprovince:new york" ; Times: 3
+	Query: "scientificname:Lepus europaeus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Phoca vitulina stateprovince:new york" ; Times: 2
+	Query: "Microtus multiplex" ; Times: 1
+	Query: "1311" ; Times: 1
+	Query: "scientificname:Mustela sp. stateprovince:new york" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "scientificname:Myotis septentrionalis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:Microtus institutioncode:CUMV" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Synaptomys borealis stateprovince:new york" ; Times: 3
+	Query: "scientificname:Lynx canadensis stateprovince:new york" ; Times: 2
+	Query: "lontra canadensis" ; Times: 2
+	Query: "scientificname:Canis lupus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Procyon lotor stateprovince:new york" ; Times: 2
+	Query: "scientificname:Canis latrans stateprovince:new york" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 8
+	Query: "Nasua nasua" ; Times: 1
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "spilogale" ; Times: 3
+	Query: "scientificname:Eptesicus fuscus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 2
+	Query: "specificepithet:insignis genus:Napaeozapus hasmass:1" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "lasiurus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 20000 haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Dama dama fetal" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina AND (male) year &gt;= 1940 year &lt;= 2020 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 4
+	Query: "scientificname:Cryptotis parva stateprovince:new york" ; Times: 3
+	Query: "scientificname:Myotis sodalis stateprovince:new york" ; Times: 2
+	Query: "Artibeus jamaicensis" ; Times: 2
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes year &gt;= 1975 year &lt;= 1975 institutioncode:CUMV" ; Times: 1
+	Query: "Zelotomys ]hildegardeae" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "17310" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "scientificname:Lontra canadensis stateprovince:new york" ; Times: 2
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 7
+	Query: "lontra Canadensis" ; Times: 4
+	Query: "genus:urocyon country:&#34;United states&#34;" ; Times: 1
+	Query: "specificepithet:davyi genus:Pteronotus" ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sus scrofa stateprovince:new york" ; Times: 2
+	Query: "Mus musculus" ; Times: 1
+	Query: "genus:Paraxerus hasmass:1" ; Times: 3
+	Query: "scientificname:Urocyon cinereoargenteus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Didelphis virginiana stateprovince:new york" ; Times: 2
+	Query: "12995" ; Times: 1
+	Query: "scientificname:Neotoma magister stateprovince:new york" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34; AND (male) year &gt;= 1900 year &lt;= 2020 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34; AND (male) year &gt;= 1900 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:Microdipodops stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "scientificname:Neovison vison stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 6
+	Query: "myocastor coypus" ; Times: 2
+	Query: "specificepithet:ursinus genus:Callorhinus" ; Times: 1
+	Query: "scientificname:Mus musculus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Vulpes vulpes stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myotis sp. stateprovince:new york" ; Times: 2
+	Query: "Canis familiaris" ; Times: 3
+	Query: "scientificname:Sorex palustris stateprovince:new york" ; Times: 3
+	Query: "scientificname:Lasiurus borealis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Sylvilagus transitionalis stateprovince:new york" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "class:mAMMALIA stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mephitis mephitis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 10
+	Query: "Apodemus sylvaticus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 2000 hassex:1 hasmass:1" ; Times: 2
+	Query: "scientificname:Myotis leibii stateprovince:new york" ; Times: 2
+	Query: "canis familiaris" ; Times: 3
+	Query: "scientificname:Synaptomys cooperi stateprovince:new york" ; Times: 3
+	Query: "scientificname:Sciurus niger stateprovince:new york" ; Times: 3
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dryomys nitedula" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 10000 hassex:1 hasmass:1" ; Times: 4
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 30000 hassex:1 hasmass:1" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 2
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus hasmass:1" ; Times: 1
+	Query: "scientificname:Erethizon dorsatum stateprovince:new york" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "scientificname:Sorex hoyi stateprovince:new york" ; Times: 3
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 4
+	Query: "Leptonycteris sanborni" ; Times: 3
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "6881" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus preparations:skull" ; Times: 1
+	Query: "Antrozous pallidus" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "scientificname:Rattus rattus stateprovince:new york" ; Times: 2
+	Query: "Erethizon" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:davyi davyi genus:Pteronotus" ; Times: 1
+	Query: "scientificname:Mustela erminea stateprovince:new york" ; Times: 2
+	Query: "Myotis myotis" ; Times: 1
+	Query: "scientificname:Lynx rufus stateprovince:new york" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 7
+	Query: "scientificname:Lepus americanus stateprovince:new york" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus NOT (virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 2
+	Query: "sciurus niger niger" ; Times: 3
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CUMV" ; Times: 1
+	Query: "genus:Ochotona" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Dicrostonyx torquatus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus AND (NOT virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "William Hair" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "scientificname:Microtus chrotorrhinus stateprovince:new york" ; Times: 3
+	Query: "scientificname:Procyon lotor" ; Times: 36
+	Query: "Crocidura grayi" ; Times: 1
+	Query: "class:Mammalia county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "CUMV 13567" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "scientificname:Delphinus delphis stateprovince:new york" ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina AND (male) year &gt;= 1900 year &lt;= 2020 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Sorex dispar stateprovince:new york" ; Times: 3
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 hasmass:1" ; Times: 1
+	Query: "Myotis daubentoni" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina AND (male) hasmass:1 haslength:1" ; Times: 2
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 6
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 4
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "Ovis nivicola" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus AND massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "scientificname:Peromyscus sp. stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mustela nivalis stateprovince:new york" ; Times: 3
+	Query: "yellowstone" ; Times: 1
+	Query: "scientificname:Lasionycteris noctivagans stateprovince:new york" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 2
+	Query: "castor" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 8
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "Phacochoerus" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "canis latrans" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "Zelotomys" ; Times: 1
+	Query: "Sciurus anomalus" ; Times: 3
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hassex:1 hasmass:1" ; Times: 5
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 4
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "scientificname:Myotis lucifugus stateprovince:new york" ; Times: 4
+	Query: "myoictis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 705 download events in this period)
+Total number of records downloaded: 4063
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-30 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 8
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 7
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 4
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CUMV" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1 -didelphis" ; Times: 1
+	Query: "class:mammalia locality:Caloosahatchee River" ; Times: 1
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 2
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "myoictis" ; Times: 1
+
+
+End of report.
